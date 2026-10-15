@@ -1,0 +1,58 @@
+# Construit l'APK Android installable de Guide du chrétien sur expo.dev (EAS Build).
+# Prérequis (une seule fois) :
+#   1. Premier build lancé depuis un ordinateur (voir mobile/README.md) : il crée le projet sur expo.dev
+#      et la clé de signature Android, puis committer le app.json mis à jour (projectId).
+#   2. Ajouter le secret EXPO_TOKEN dans GitHub → Settings → Secrets and variables → Actions.
+name: Build APK (EAS)
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['mobile/**', '.github/workflows/eas-build.yml']
+
+jobs:
+  build:
+    name: APK Android (profil preview)
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: mobile
+    steps:
+      - name: Vérifier la configuration
+        id: check
+        working-directory: .
+        env:
+          EXPO_TOKEN: ${{ secrets.EXPO_TOKEN }}
+        run: |
+          if [ -z "$EXPO_TOKEN" ]; then
+            echo "::warning::Secret EXPO_TOKEN absent : build ignoré. Voir mobile/README.md."
+            echo "ready=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "ready=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/checkout@v5
+        if: steps.check.outputs.ready == 'true'
+
+      - uses: actions/setup-node@v6
+        if: steps.check.outputs.ready == 'true'
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: mobile/package-lock.json
+
+      - name: Installer Expo et EAS
+        if: steps.check.outputs.ready == 'true'
+        uses: expo/expo-github-action@v8
+        with:
+          eas-version: latest
+          token: ${{ secrets.EXPO_TOKEN }}
+
+      - name: Installer les dépendances
+        if: steps.check.outputs.ready == 'true'
+        run: npm ci
+
+      - name: Lancer le build sur expo.dev
+        if: steps.check.outputs.ready == 'true'
+        run: eas build --platform android --profile preview --non-interactive --no-wait

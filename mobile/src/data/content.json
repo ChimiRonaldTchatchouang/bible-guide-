@@ -1,0 +1,3045 @@
+{
+  "version": 1,
+  "bible": "Louis Segond 1910",
+  "generatedAt": "2026-10-15T16:33:45.524Z",
+  "themes": [
+    {
+      "slug": "foi",
+      "name": "Foi",
+      "description": "Faire confiance à Dieu et à ses promesses, même quand rien ne les confirme encore.",
+      "icon": "sparkles",
+      "color": "#3E5C9A",
+      "parent": null
+    },
+    {
+      "slug": "pardon",
+      "name": "Pardon",
+      "description": "Recevoir le pardon de Dieu et pardonner à ceux qui nous ont blessés.",
+      "icon": "heart",
+      "color": "#B5523B",
+      "parent": null
+    },
+    {
+      "slug": "mariage",
+      "name": "Mariage",
+      "description": "Le couple et la famille selon le dessein de Dieu.",
+      "icon": "rings",
+      "color": "#A8577E",
+      "parent": null
+    },
+    {
+      "slug": "mystere-du-mariage",
+      "name": "Le mystère du mariage",
+      "description": "Deux deviennent une seule chair : le fondement biblique du mariage.",
+      "icon": "infinity",
+      "color": "#A8577E",
+      "parent": "mariage"
+    },
+    {
+      "slug": "recherche-de-l-amour",
+      "name": "Recherche de l'amour",
+      "description": "Trouver son compagnon ou sa compagne de vie avec sagesse et prière.",
+      "icon": "search-heart",
+      "color": "#C27A93",
+      "parent": "mariage"
+    },
+    {
+      "slug": "entrepreneuriat",
+      "name": "Entrepreneuriat et travail",
+      "description": "Travailler, bâtir et prospérer sans oublier Dieu.",
+      "icon": "briefcase",
+      "color": "#B8862F",
+      "parent": null
+    },
+    {
+      "slug": "protection",
+      "name": "Protection",
+      "description": "Dieu garde ceux qui se réfugient en lui.",
+      "icon": "shield",
+      "color": "#2F7A6B",
+      "parent": null
+    },
+    {
+      "slug": "sagesse",
+      "name": "Sagesse",
+      "description": "Marcher avec discernement dans les décisions de chaque jour.",
+      "icon": "lamp",
+      "color": "#6B5B95",
+      "parent": null
+    }
+  ],
+  "groups": [
+    {
+      "slug": "creation-de-la-femme-et-mariage",
+      "title": "Les deux deviendront une seule chair",
+      "reference": "Genèse 2:18-24",
+      "contextStory": "Dieu vient de placer l'homme dans le jardin d'Éden. Il constate qu'il n'est pas bon que l'homme soit seul. Adam donne un nom à tous les animaux, mais aucun ne lui correspond. Dieu le plonge alors dans un profond sommeil, forme la femme à partir d'une de ses côtes et la lui amène.",
+      "teaching": "Le mariage vient de Dieu, pas d'une coutume humaine. L'homme quitte son père et sa mère, s'attache à sa femme, et les deux ne font plus qu'un. Jésus (Mt 19) et Paul (Ép 5) s'appuient sur ce texte pour enseigner le mariage.",
+      "themes": ["mariage", "mystere-du-mariage"],
+      "verses": [
+        {
+          "c": 2,
+          "v": 18,
+          "t": "L’Éternel Dieu dit: Il n’est pas bon que l’homme soit seul; je lui ferai une aide semblable à lui."
+        },
+        {
+          "c": 2,
+          "v": 19,
+          "t": "L’Éternel Dieu forma de la terre tous les animaux des champs et tous les oiseaux du ciel, et il les fit venir vers l’homme, pour voir comment il les appellerait, et afin que tout être vivant portât le nom que lui donnerait l’homme."
+        },
+        {
+          "c": 2,
+          "v": 20,
+          "t": "Et l’homme donna des noms à tout le bétail, aux oiseaux du ciel et à tous les animaux des champs; mais, pour l’homme, il ne trouva point d’aide semblable à lui."
+        },
+        {
+          "c": 2,
+          "v": 21,
+          "t": "Alors l’Éternel Dieu fit tomber un profond sommeil sur l’homme, qui s’endormit; il prit une de ses côtes, et referma la chair à sa place."
+        },
+        {
+          "c": 2,
+          "v": 22,
+          "t": "L’Éternel Dieu forma une femme de la côte qu’il avait prise de l’homme, et il l’amena vers l’homme."
+        },
+        {
+          "c": 2,
+          "v": 23,
+          "t": "Et l’homme dit: Voici cette fois celle qui est os de mes os et chair de ma chair! On l’appellera femme, parce qu’elle a été prise de l’homme."
+        },
+        {
+          "c": 2,
+          "v": 24,
+          "t": "C’est pourquoi l’homme quittera son père et sa mère, et s’attachera à sa femme, et ils deviendront une seule chair."
+        }
+      ],
+      "parallels": [
+        {
+          "reference": "1 Corinthiens 11:7-10",
+          "note": null,
+          "verses": [
+            {
+              "c": 11,
+              "v": 7,
+              "t": "L’homme ne doit pas se couvrir la tête, puisqu’il est l’image et la gloire de Dieu, tandis que la femme est la gloire de l’homme."
+            },
+            {
+              "c": 11,
+              "v": 8,
+              "t": "En effet, l’homme n’a pas été tiré de la femme, mais la femme a été tirée de l’homme;"
+            },
+            {
+              "c": 11,
+              "v": 9,
+              "t": "et l’homme n’a pas été créé à cause de la femme, mais la femme a été créée à cause de l’homme."
+            },
+            {
+              "c": 11,
+              "v": 10,
+              "t": "C’est pourquoi la femme, à cause des anges, doit avoir sur la tête une marque de l’autorité dont elle dépend."
+            }
+          ]
+        },
+        {
+          "reference": "1 Timothée 2:11-13",
+          "note": null,
+          "verses": [
+            { "c": 2, "v": 11, "t": "Que la femme écoute l’instruction en silence, avec une entière soumission." },
+            {
+              "c": 2,
+              "v": 12,
+              "t": "Je ne permets pas à la femme d’enseigner, ni de prendre de l’autorité sur l’homme; mais elle doit demeurer dans le silence."
+            },
+            { "c": 2, "v": 13, "t": "Car Adam a été formé le premier, Eve ensuite;" }
+          ]
+        },
+        {
+          "reference": "Éphésiens 5:22-33",
+          "note": null,
+          "verses": [
+            { "c": 5, "v": 22, "t": "Femmes, soyez soumises à vos maris, comme au Seigneur;" },
+            {
+              "c": 5,
+              "v": 23,
+              "t": "car le mari est le chef de la femme, comme Christ est le chef de l’Église, qui est son corps, et dont il est le Sauveur."
+            },
+            {
+              "c": 5,
+              "v": 24,
+              "t": "Or, de même que l’Église est soumise à Christ, les femmes aussi doivent l’être à leurs maris en toutes choses."
+            },
+            {
+              "c": 5,
+              "v": 25,
+              "t": "Maris, aimez vos femmes, comme Christ a aimé l’Église, et s’est livré lui-même pour elle,"
+            },
+            {
+              "c": 5,
+              "v": 26,
+              "t": "afin de la sanctifier par la parole, après l’avoir purifiée par le baptême d’eau,"
+            },
+            {
+              "c": 5,
+              "v": 27,
+              "t": "afin de faire paraître devant lui cette Église glorieuse, sans tache, ni ride, ni rien de semblable, mais sainte et irrépréhensible."
+            },
+            {
+              "c": 5,
+              "v": 28,
+              "t": "C’est ainsi que les maris doivent aimer leurs femmes comme leurs propres corps. Celui qui aime sa femme s’aime lui-même."
+            },
+            {
+              "c": 5,
+              "v": 29,
+              "t": "Car jamais personne n’a haï sa propre chair; mais il la nourrit et en prend soin, comme Christ le fait pour l’Église,"
+            },
+            { "c": 5, "v": 30, "t": "parce que nous sommes membres de son corps." },
+            {
+              "c": 5,
+              "v": 31,
+              "t": "C’est pourquoi l’homme quittera son père et sa mère, et s’attachera à sa femme, et les deux deviendront une seule chair."
+            },
+            { "c": 5, "v": 32, "t": "Ce mystère est grand; je dis cela par rapport à Christ et à l’Église." },
+            {
+              "c": 5,
+              "v": 33,
+              "t": "Du reste, que chacun de vous aime sa femme comme lui-même, et que la femme respecte son mari."
+            }
+          ]
+        },
+        {
+          "reference": "Matthieu 19:3-9",
+          "note": null,
+          "verses": [
+            {
+              "c": 19,
+              "v": 3,
+              "t": "Les pharisiens l’abordèrent, et dirent, pour l’éprouver: Est-il permis à un homme de répudier sa femme pour un motif quelconque?"
+            },
+            {
+              "c": 19,
+              "v": 4,
+              "t": "Il répondit: N’avez-vous pas lu que le créateur, au commencement, fit l’homme et la femme"
+            },
+            {
+              "c": 19,
+              "v": 5,
+              "t": "et qu’il dit: C’est pourquoi l’homme quittera son père et sa mère, et s’attachera à sa femme, et les deux deviendront une seule chair?"
+            },
+            {
+              "c": 19,
+              "v": 6,
+              "t": "Ainsi ils ne sont plus deux, mais ils sont une seule chair. Que l’homme donc ne sépare pas ce que Dieu a joint."
+            },
+            {
+              "c": 19,
+              "v": 7,
+              "t": "Pourquoi donc, lui dirent-ils, Moïse a-t-il prescrit de donner à la femme une lettre de divorce et de la répudier?"
+            },
+            {
+              "c": 19,
+              "v": 8,
+              "t": "Il leur répondit: C’est à cause de la dureté de votre cœur que Moïse vous a permis de répudier vos femmes; au commencement, il n’en était pas ainsi."
+            },
+            {
+              "c": 19,
+              "v": 9,
+              "t": "Mais je vous dis que celui qui répudie sa femme, sauf pour infidélité, et qui en épouse une autre, commet un adultère."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "rebecca-au-puits",
+      "title": "Rebecca au puits : une épouse choisie dans la prière",
+      "reference": "Genèse 24:12-27",
+      "contextStory": "Abraham, très âgé, ne veut pas que son fils Isaac épouse une Cananéenne. Il envoie son serviteur chercher une épouse dans sa famille, en Mésopotamie. Arrivé près d'un puits le soir, le serviteur prie : que la jeune fille qui lui offrira à boire, ainsi qu'à ses chameaux, soit celle que Dieu a choisie. Rebecca arrive avant même qu'il ait fini de prier.",
+      "teaching": "Chercher son compagnon de vie commence par la prière. Le signe demandé porte sur le caractère : Rebecca se montre généreuse et travailleuse en abreuvant dix chameaux. Dieu conduit ceux qui le consultent avant de choisir.",
+      "themes": ["recherche-de-l-amour"],
+      "verses": [
+        {
+          "c": 24,
+          "v": 12,
+          "t": "Et il dit: Éternel, Dieu de mon seigneur Abraham, fais-moi, je te prie, rencontrer aujourd’hui ce que je désire, et use de bonté envers mon seigneur Abraham!"
+        },
+        {
+          "c": 24,
+          "v": 13,
+          "t": "Voici, je me tiens près de la source d’eau, et les filles des gens de la ville vont sortir pour puiser de l’eau."
+        },
+        {
+          "c": 24,
+          "v": 14,
+          "t": "Que la jeune fille à laquelle je dirai: Penche ta cruche, je te prie, pour que je boive, et qui répondra: Bois, et je donnerai aussi à boire à tes chameaux, soit celle que tu as destinée à ton serviteur Isaac! Et par là je connaîtrai que tu uses de bonté envers mon seigneur."
+        },
+        {
+          "c": 24,
+          "v": 15,
+          "t": "Il n’avait pas encore fini de parler que sortit, sa cruche sur l’épaule, Rebecca, née de Bethuel, fils de Milca, femme de Nachor, frère d’Abraham."
+        },
+        {
+          "c": 24,
+          "v": 16,
+          "t": "C’était une jeune fille très belle de figure; elle était vierge, et aucun homme ne l’avait connue. Elle descendit à la source, remplit sa cruche, et remonta."
+        },
+        {
+          "c": 24,
+          "v": 17,
+          "t": "Le serviteur courut au-devant d’elle, et dit: Laisse-moi boire, je te prie, un peu d’eau de ta cruche."
+        },
+        {
+          "c": 24,
+          "v": 18,
+          "t": "Elle répondit: Bois, mon seigneur. Et elle s’empressa d’abaisser sa cruche sur sa main, et de lui donner à boire."
+        },
+        {
+          "c": 24,
+          "v": 19,
+          "t": "Quand elle eut achevé de lui donner à boire, elle dit: Je puiserai aussi pour tes chameaux, jusqu’à ce qu’ils aient assez bu."
+        },
+        {
+          "c": 24,
+          "v": 20,
+          "t": "Et elle s’empressa de vider sa cruche dans l’abreuvoir, et courut encore au puits pour puiser; et elle puisa pour tous les chameaux."
+        },
+        {
+          "c": 24,
+          "v": 21,
+          "t": "L’homme la regardait avec étonnement et sans rien dire, pour voir si l’Éternel faisait réussir son voyage, ou non."
+        },
+        {
+          "c": 24,
+          "v": 22,
+          "t": "Quand les chameaux eurent fini de boire, l’homme prit un anneau d’or, du poids d’un demi-sicle, et deux bracelets, du poids de dix sicles d’or."
+        },
+        {
+          "c": 24,
+          "v": 23,
+          "t": "Et il dit: De qui es-tu fille? Dis-le moi, je te prie. Y a-t-il dans la maison de ton père de la place pour passer la nuit?"
+        },
+        { "c": 24, "v": 24, "t": "Elle répondit: Je suis fille de Bethuel, fils de Milca et de Nachor." },
+        {
+          "c": 24,
+          "v": 25,
+          "t": "Elle lui dit encore: Il y a chez nous de la paille et du fourrage en abondance, et aussi de la place pour passer la nuit."
+        },
+        { "c": 24, "v": 26, "t": "Alors l’homme s’inclina et se prosterna devant l’Éternel," },
+        {
+          "c": 24,
+          "v": 27,
+          "t": "en disant: Béni soit l’Éternel, le Dieu de mon seigneur Abraham, qui n’a pas renoncé à sa miséricorde et à sa fidélité envers mon seigneur! Moi-même, l’Éternel m’a conduit à la maison des frères de mon seigneur."
+        }
+      ],
+      "parallels": [
+        {
+          "reference": "Proverbes 19:14",
+          "note": null,
+          "verses": [
+            {
+              "c": 19,
+              "v": 14,
+              "t": "On peut hériter de ses pères une maison et des richesses, Mais une femme intelligente est un don de l’Éternel."
+            }
+          ]
+        },
+        {
+          "reference": "Proverbes 18:22",
+          "note": null,
+          "verses": [
+            {
+              "c": 18,
+              "v": 22,
+              "t": "Celui qui trouve une femme trouve le bonheur; C’est une grâce qu’il obtient de l’Éternel."
+            }
+          ]
+        },
+        {
+          "reference": "Ruth 3:10-11",
+          "note": null,
+          "verses": [
+            {
+              "c": 3,
+              "v": 10,
+              "t": "Et il dit: Sois bénie de l’Éternel, ma fille! Ce dernier trait témoigne encore plus en ta faveur que le premier, car tu n’as pas recherché des jeunes gens, pauvres ou riches."
+            },
+            {
+              "c": 3,
+              "v": 11,
+              "t": "Maintenant, ma fille, ne crains point; je ferai pour toi tout ce que tu diras; car toute la porte de mon peuple sait que tu es une femme vertueuse."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "la-femme-vertueuse",
+      "title": "La femme vertueuse",
+      "reference": "Proverbes 31:10-31",
+      "contextStory": "Le livre des Proverbes se termine par ce portrait, présenté comme l'enseignement qu'un roi a reçu de sa mère. Chaque verset commence, en hébreu, par une lettre de l'alphabet dans l'ordre : c'est un poème à apprendre par cœur.",
+      "teaching": "Cette femme gère sa maison, achète un champ, plante une vigne, fabrique et vend des étoffes, et ouvre la main au pauvre. Le travail, la bonne gestion et la crainte de l'Éternel vont ensemble ; une telle épouse vaut plus que les perles.",
+      "themes": ["mariage", "entrepreneuriat"],
+      "verses": [
+        { "c": 31, "v": 10, "t": "Qui peut trouver une femme vertueuse? Elle a bien plus de valeur que les perles." },
+        { "c": 31, "v": 11, "t": "Le cœur de son mari a confiance en elle, Et les produits ne lui feront pas défaut." },
+        { "c": 31, "v": 12, "t": "Elle lui fait du bien, et non du mal, Tous les jours de sa vie." },
+        { "c": 31, "v": 13, "t": "Elle se procure de la laine et du lin, Et travaille d’une main joyeuse." },
+        { "c": 31, "v": 14, "t": "Elle est comme un navire marchand, Elle amène son pain de loin." },
+        {
+          "c": 31,
+          "v": 15,
+          "t": "Elle se lève lorsqu’il est encore nuit, Et elle donne la nourriture à sa maison Et la tâche à ses servantes."
+        },
+        {
+          "c": 31,
+          "v": 16,
+          "t": "Elle pense à un champ, et elle l’acquiert; Du fruit de son travail elle plante une vigne."
+        },
+        { "c": 31, "v": 17, "t": "Elle ceint de force ses reins, Et elle affermit ses bras." },
+        {
+          "c": 31,
+          "v": 18,
+          "t": "Elle sent que ce qu’elle gagne est bon; Sa lampe ne s’éteint point pendant la nuit."
+        },
+        { "c": 31, "v": 19, "t": "Elle met la main à la quenouille, Et ses doigts tiennent le fuseau." },
+        { "c": 31, "v": 20, "t": "Elle tend la main au malheureux, Elle tend la main à l’indigent." },
+        {
+          "c": 31,
+          "v": 21,
+          "t": "Elle ne craint pas la neige pour sa maison, Car toute sa maison est vêtue de cramoisi."
+        },
+        { "c": 31, "v": 22, "t": "Elle se fait des couvertures, Elle a des vêtements de fin lin et de pourpre." },
+        { "c": 31, "v": 23, "t": "Son mari est considéré aux portes, Lorsqu’il siège avec les anciens du pays." },
+        { "c": 31, "v": 24, "t": "Elle fait des chemises, et les vend, Et elle livre des ceintures au marchand." },
+        { "c": 31, "v": 25, "t": "Elle est revêtue de force et de gloire, Et elle se rit de l’avenir." },
+        {
+          "c": 31,
+          "v": 26,
+          "t": "Elle ouvre la bouche avec sagesse, Et des instructions aimables sont sur sa langue."
+        },
+        {
+          "c": 31,
+          "v": 27,
+          "t": "Elle veille sur ce qui se passe dans sa maison, Et elle ne mange pas le pain de paresse."
+        },
+        {
+          "c": 31,
+          "v": 28,
+          "t": "Ses fils se lèvent, et la disent heureuse; Son mari se lève, et lui donne des louanges:"
+        },
+        { "c": 31, "v": 29, "t": "Plusieurs filles ont une conduite vertueuse; Mais toi, tu les surpasses toutes." },
+        {
+          "c": 31,
+          "v": 30,
+          "t": "La grâce est trompeuse, et la beauté est vaine; La femme qui craint l’Éternel est celle qui sera louée."
+        },
+        { "c": 31, "v": 31, "t": "Récompensez-la du fruit de son travail, Et qu’aux portes ses œuvres la louent." }
+      ],
+      "parallels": [
+        {
+          "reference": "Proverbes 19:14",
+          "note": null,
+          "verses": [
+            {
+              "c": 19,
+              "v": 14,
+              "t": "On peut hériter de ses pères une maison et des richesses, Mais une femme intelligente est un don de l’Éternel."
+            }
+          ]
+        },
+        {
+          "reference": "Proverbes 14:1",
+          "note": null,
+          "verses": [
+            {
+              "c": 14,
+              "v": 1,
+              "t": "La femme sage bâtit sa maison, Et la femme insensée la renverse de ses propres mains."
+            }
+          ]
+        },
+        {
+          "reference": "1 Pierre 3:1-6",
+          "note": null,
+          "verses": [
+            {
+              "c": 3,
+              "v": 1,
+              "t": "Femmes, soyez de même soumises à vos maris, afin que, si quelques-uns n’obéissent point à la parole, ils soient gagnés sans parole par la conduite de leurs femmes,"
+            },
+            { "c": 3, "v": 2, "t": "en voyant votre manière de vivre chaste et réservée." },
+            {
+              "c": 3,
+              "v": 3,
+              "t": "Ayez, non cette parure extérieure qui consiste dans les cheveux tressés, les ornements d’or, ou les habits qu’on revêt,"
+            },
+            {
+              "c": 3,
+              "v": 4,
+              "t": "mais la parure intérieure et cachée dans le cœur, la pureté incorruptible d’un esprit doux et paisible, qui est d’un grand prix devant Dieu."
+            },
+            {
+              "c": 3,
+              "v": 5,
+              "t": "Ainsi se paraient autrefois les saintes femmes qui espéraient en Dieu, soumises à leurs maris,"
+            },
+            {
+              "c": 3,
+              "v": 6,
+              "t": "comme Sara, qui obéissait à Abraham et l’appelait son seigneur. C’est d’elle que vous êtes devenues les filles, en faisant ce qui est bien, sans vous laisser troubler par aucune crainte."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "joseph-se-fait-connaitre",
+      "title": "Joseph se fait connaître à ses frères",
+      "reference": "Genèse 45:1-15",
+      "contextStory": "Vendu comme esclave par ses frères jaloux, Joseph est devenu gouverneur de l'Égypte. Pendant la famine, ses frères viennent acheter du blé sans le reconnaître. Après les avoir mis à l'épreuve, Joseph ne peut plus se retenir : il fait sortir tout le monde et se fait connaître en pleurant.",
+      "teaching": "Joseph voit la main de Dieu derrière le mal qu'il a subi : Dieu l'a envoyé en avant pour sauver des vies. Ce regard lui permet de pardonner sans humilier ses frères et de restaurer la famille.",
+      "themes": ["pardon"],
+      "verses": [
+        {
+          "c": 45,
+          "v": 1,
+          "t": "Joseph ne pouvait plus se contenir devant tous ceux qui l’entouraient. Il s’écria: Faites sortir tout le monde. Et il ne resta personne avec Joseph, quand il se fit connaître à ses frères."
+        },
+        {
+          "c": 45,
+          "v": 2,
+          "t": "Il éleva la voix, en pleurant. Les Égyptiens l’entendirent, et la maison de Pharaon l’entendit."
+        },
+        {
+          "c": 45,
+          "v": 3,
+          "t": "Joseph dit à ses frères: Je suis Joseph! Mon père vit-il encore? Mais ses frères ne purent lui répondre, car ils étaient troublés en sa présence."
+        },
+        {
+          "c": 45,
+          "v": 4,
+          "t": "Joseph dit à ses frères: Approchez-vous de moi. Et ils s’approchèrent. Il dit: Je suis Joseph, votre frère, que vous avez vendu pour être mené en Égypte."
+        },
+        {
+          "c": 45,
+          "v": 5,
+          "t": "Maintenant, ne vous affligez pas, et ne soyez pas fâchés de m’avoir vendu pour être conduit ici, car c’est pour vous sauver la vie que Dieu m’a envoyé devant vous."
+        },
+        {
+          "c": 45,
+          "v": 6,
+          "t": "Voilà deux ans que la famine est dans le pays; et pendant cinq années encore, il n’y aura ni labour, ni moisson."
+        },
+        {
+          "c": 45,
+          "v": 7,
+          "t": "Dieu m’a envoyé devant vous pour vous faire subsister dans le pays, et pour vous faire vivre par une grande délivrance."
+        },
+        {
+          "c": 45,
+          "v": 8,
+          "t": "Ce n’est donc pas vous qui m’avez envoyé ici, mais c’est Dieu; il m’a établi père de Pharaon, maître de toute sa maison, et gouverneur de tout le pays d’Égypte."
+        },
+        {
+          "c": 45,
+          "v": 9,
+          "t": "Hâtez-vous de remonter auprès de mon père, et vous lui direz: Ainsi a parlé ton fils Joseph: Dieu m’a établi seigneur de toute l’Égypte; descends vers moi, ne tarde pas!"
+        },
+        {
+          "c": 45,
+          "v": 10,
+          "t": "Tu habiteras dans le pays de Gosen, et tu seras près de moi, toi, tes fils, et les fils de tes fils, tes brebis et tes bœufs, et tout ce qui est à toi."
+        },
+        {
+          "c": 45,
+          "v": 11,
+          "t": "Là, je te nourrirai, car il y aura encore cinq années de famine; et ainsi tu ne périras point, toi, ta maison, et tout ce qui est à toi."
+        },
+        {
+          "c": 45,
+          "v": 12,
+          "t": "Vous voyez de vos yeux, et mon frère Benjamin voit de ses yeux que c’est moi-même qui vous parle."
+        },
+        {
+          "c": 45,
+          "v": 13,
+          "t": "Racontez à mon père toute ma gloire en Égypte, et tout ce que vous avez vu; et vous ferez descendre ici mon père au plus tôt."
+        },
+        {
+          "c": 45,
+          "v": 14,
+          "t": "Il se jeta au cou de Benjamin, son frère, et pleura; et Benjamin pleura sur son cou."
+        },
+        {
+          "c": 45,
+          "v": 15,
+          "t": "Il embrassa aussi tous ses frères, en pleurant. Après quoi, ses frères s’entretinrent avec lui."
+        }
+      ],
+      "parallels": [
+        {
+          "reference": "Genèse 44:33",
+          "note": null,
+          "verses": [
+            {
+              "c": 44,
+              "v": 33,
+              "t": "Permets donc, je te prie, à ton serviteur de rester à la place de l’enfant, comme esclave de mon seigneur; et que l’enfant remonte avec ses frères."
+            }
+          ]
+        },
+        {
+          "reference": "Genèse 44:34",
+          "note": null,
+          "verses": [
+            {
+              "c": 44,
+              "v": 34,
+              "t": "Comment pourrai-je remonter vers mon père, si l’enfant n’est pas avec moi? Ah! Que je ne voie point l’affliction de mon père!"
+            }
+          ]
+        },
+        {
+          "reference": "Actes 7:13",
+          "note": null,
+          "verses": [
+            {
+              "c": 7,
+              "v": 13,
+              "t": "Et la seconde fois, Joseph fut reconnu par ses frères, et Pharaon sut de quelle famille il était."
+            }
+          ]
+        },
+        {
+          "reference": "Éphésiens 4:32-5:2",
+          "note": null,
+          "verses": [
+            {
+              "c": 4,
+              "v": 32,
+              "t": "Soyez bons les uns envers les autres, compatissants, vous pardonnant réciproquement, comme Dieu vous a pardonné en Christ."
+            },
+            { "c": 5, "v": 1, "t": "Devenez donc les imitateurs de Dieu, comme des enfants bien-aimés;" },
+            {
+              "c": 5,
+              "v": 2,
+              "t": "et marchez dans la charité, à l’exemple de Christ, qui nous a aimés, et qui s’est livré lui-même à Dieu pour nous comme une offrande et un sacrifice de bonne odeur."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "joseph-confirme-son-pardon",
+      "title": "Vous aviez prévu le mal, Dieu l’a changé en bien",
+      "reference": "Genèse 50:15-21",
+      "contextStory": "Jacob, leur père, vient de mourir. Les frères de Joseph ont peur : maintenant qu'il n'y a plus de père pour les protéger, Joseph va-t-il se venger ? Ils lui envoient un message pour demander pardon et viennent se prosterner devant lui.",
+      "teaching": "Un pardon sincère ne se reprend pas avec le temps. Joseph refuse de se mettre à la place de Dieu, affirme que Dieu a tourné le mal en bien, et promet de nourrir ses frères et leurs enfants.",
+      "themes": ["pardon"],
+      "verses": [
+        {
+          "c": 50,
+          "v": 15,
+          "t": "Quand les frères de Joseph virent que leur père était mort, ils dirent: Si Joseph nous prenait en haine, et nous rendait tout le mal que nous lui avons fait!"
+        },
+        { "c": 50, "v": 16, "t": "Et ils firent dire à Joseph: Ton père a donné cet ordre avant de mourir:" },
+        {
+          "c": 50,
+          "v": 17,
+          "t": "Vous parlerez ainsi à Joseph: Oh! Pardonne le crime de tes frères et leur péché, car ils t’ont fait du mal! Pardonne maintenant le péché des serviteurs du Dieu de ton père! Joseph pleura, en entendant ces paroles."
+        },
+        {
+          "c": 50,
+          "v": 18,
+          "t": "Ses frères vinrent eux-mêmes se prosterner devant lui, et ils dirent: Nous sommes tes serviteurs."
+        },
+        { "c": 50, "v": 19, "t": "Joseph leur dit: Soyez sans crainte; car suis-je à la place de Dieu?" },
+        {
+          "c": 50,
+          "v": 20,
+          "t": "Vous aviez médité de me faire du mal: Dieu l’a changé en bien, pour accomplir ce qui arrive aujourd’hui, pour sauver la vie à un peuple nombreux."
+        },
+        {
+          "c": 50,
+          "v": 21,
+          "t": "Soyez donc sans crainte; je vous entretiendrai, vous et vos enfants. Et il les consola, en parlant à leur cœur."
+        }
+      ],
+      "parallels": [
+        {
+          "reference": "Genèse 45:1-11",
+          "note": null,
+          "verses": [
+            {
+              "c": 45,
+              "v": 1,
+              "t": "Joseph ne pouvait plus se contenir devant tous ceux qui l’entouraient. Il s’écria: Faites sortir tout le monde. Et il ne resta personne avec Joseph, quand il se fit connaître à ses frères."
+            },
+            {
+              "c": 45,
+              "v": 2,
+              "t": "Il éleva la voix, en pleurant. Les Égyptiens l’entendirent, et la maison de Pharaon l’entendit."
+            },
+            {
+              "c": 45,
+              "v": 3,
+              "t": "Joseph dit à ses frères: Je suis Joseph! Mon père vit-il encore? Mais ses frères ne purent lui répondre, car ils étaient troublés en sa présence."
+            },
+            {
+              "c": 45,
+              "v": 4,
+              "t": "Joseph dit à ses frères: Approchez-vous de moi. Et ils s’approchèrent. Il dit: Je suis Joseph, votre frère, que vous avez vendu pour être mené en Égypte."
+            },
+            {
+              "c": 45,
+              "v": 5,
+              "t": "Maintenant, ne vous affligez pas, et ne soyez pas fâchés de m’avoir vendu pour être conduit ici, car c’est pour vous sauver la vie que Dieu m’a envoyé devant vous."
+            },
+            {
+              "c": 45,
+              "v": 6,
+              "t": "Voilà deux ans que la famine est dans le pays; et pendant cinq années encore, il n’y aura ni labour, ni moisson."
+            },
+            {
+              "c": 45,
+              "v": 7,
+              "t": "Dieu m’a envoyé devant vous pour vous faire subsister dans le pays, et pour vous faire vivre par une grande délivrance."
+            },
+            {
+              "c": 45,
+              "v": 8,
+              "t": "Ce n’est donc pas vous qui m’avez envoyé ici, mais c’est Dieu; il m’a établi père de Pharaon, maître de toute sa maison, et gouverneur de tout le pays d’Égypte."
+            },
+            {
+              "c": 45,
+              "v": 9,
+              "t": "Hâtez-vous de remonter auprès de mon père, et vous lui direz: Ainsi a parlé ton fils Joseph: Dieu m’a établi seigneur de toute l’Égypte; descends vers moi, ne tarde pas!"
+            },
+            {
+              "c": 45,
+              "v": 10,
+              "t": "Tu habiteras dans le pays de Gosen, et tu seras près de moi, toi, tes fils, et les fils de tes fils, tes brebis et tes bœufs, et tout ce qui est à toi."
+            },
+            {
+              "c": 45,
+              "v": 11,
+              "t": "Là, je te nourrirai, car il y aura encore cinq années de famine; et ainsi tu ne périras point, toi, ta maison, et tout ce qui est à toi."
+            }
+          ]
+        },
+        {
+          "reference": "Colossiens 3:12-14",
+          "note": null,
+          "verses": [
+            {
+              "c": 3,
+              "v": 12,
+              "t": "Ainsi donc, comme des élus de Dieu, saints et bien-aimés, revêtez-vous d’entrailles de miséricorde, de bonté, d’humilité, de douceur, de patience."
+            },
+            {
+              "c": 3,
+              "v": 13,
+              "t": "Supportez-vous les uns les autres, et, si l’un a sujet de se plaindre de l’autre, pardonnez-vous réciproquement. De même que Christ vous a pardonné, pardonnez-vous aussi."
+            },
+            {
+              "c": 3,
+              "v": 14,
+              "t": "Mais par-dessus toutes ces choses revêtez-vous de la charité, qui est le lien de la perfection."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "heureux-celui-dont-la-faute-est-pardonnee",
+      "title": "Heureux celui dont la transgression est pardonnée",
+      "reference": "Psaumes 32",
+      "contextStory": "Psaume de David, souvent rapproché de son péché avec Bath-Schéba (2 Samuel 11–12). Il raconte ce qu'il a vécu tant qu'il cachait sa faute, puis la délivrance qui a suivi sa confession.",
+      "teaching": "Cacher sa faute épuise le corps et l'âme. La reconnaître devant Dieu apporte le pardon et la paix. Paul cite ce psaume (Ro 4) pour montrer que le pardon est une grâce, pas une récompense.",
+      "themes": ["pardon"],
+      "verses": [
+        {
+          "c": 32,
+          "v": 1,
+          "t": "De David. Cantique. Heureux celui à qui la transgression est remise, A qui le péché est pardonné!"
+        },
+        {
+          "c": 32,
+          "v": 2,
+          "t": "Heureux l’homme à qui l’Éternel n’impute pas d’iniquité, Et dans l’esprit duquel il n’y a point de fraude!"
+        },
+        { "c": 32, "v": 3, "t": "Tant que je me suis tu, mes os se consumaient, Je gémissais toute la journée;" },
+        {
+          "c": 32,
+          "v": 4,
+          "t": "Car nuit et jour ta main s’appesantissait sur moi, Ma vigueur n’était plus que sécheresse, comme celle de l’été. — Pause."
+        },
+        {
+          "c": 32,
+          "v": 5,
+          "t": "Je t’ai fait connaître mon péché, je n’ai pas caché mon iniquité; J’ai dit: J’avouerai mes transgressions à l’Éternel! Et tu as effacé la peine de mon péché. — Pause."
+        },
+        {
+          "c": 32,
+          "v": 6,
+          "t": "Qu’ainsi tout homme pieux te prie au temps convenable! Si de grandes eaux débordent, elles ne l’atteindront nullement."
+        },
+        {
+          "c": 32,
+          "v": 7,
+          "t": "Tu es un asile pour moi, tu me garantis de la détresse, Tu m’entoures de chants de délivrance. — Pause."
+        },
+        {
+          "c": 32,
+          "v": 8,
+          "t": "Je t’instruirai et te montrerai la voie que tu dois suivre; Je te conseillerai, j’aurai le regard sur toi."
+        },
+        {
+          "c": 32,
+          "v": 9,
+          "t": "Ne soyez pas comme un cheval ou un mulet sans intelligence; On les bride avec un frein et un mors, dont on les pare, Afin qu’ils ne s’approchent point de toi."
+        },
+        {
+          "c": 32,
+          "v": 10,
+          "t": "Beaucoup de douleurs sont la part du méchant, Mais celui qui se confie en l’Éternel est environné de sa grâce."
+        },
+        {
+          "c": 32,
+          "v": 11,
+          "t": "Justes, réjouissez-vous en l’Éternel et soyez dans l’allégresse! Poussez des cris de joie, vous tous qui êtes droits de cœur!"
+        }
+      ],
+      "parallels": [
+        {
+          "reference": "2 Samuel 12:13",
+          "note": null,
+          "verses": [
+            {
+              "c": 12,
+              "v": 13,
+              "t": "David dit à Nathan: J’ai péché contre l’Éternel! Et Nathan dit à David: L’Éternel pardonne ton péché, tu ne mourras point."
+            }
+          ]
+        },
+        {
+          "reference": "Psaumes 6",
+          "note": null,
+          "verses": [
+            {
+              "c": 6,
+              "v": 1,
+              "t": "Au chef des chantres. Avec instruments à cordes. Sur la harpe à huit cordes. Psaume de David."
+            },
+            { "c": 6, "v": 2, "t": "Éternel! ne me punis pas dans ta colère, Et ne me châtie pas dans ta fureur." },
+            {
+              "c": 6,
+              "v": 3,
+              "t": "Aie pitié de moi, Éternel! Car je suis sans force; Guéris-moi, Éternel! Car mes os sont tremblants."
+            },
+            { "c": 6, "v": 4, "t": "Mon âme est toute troublée; Et toi, Éternel! Jusques à quand?…" },
+            { "c": 6, "v": 5, "t": "Reviens, Éternel! Délivre mon âme; Sauve-moi, à cause de ta miséricorde." },
+            {
+              "c": 6,
+              "v": 6,
+              "t": "Car celui qui meurt n’a plus ton souvenir; Qui te louera dans le séjour des morts?"
+            },
+            {
+              "c": 6,
+              "v": 7,
+              "t": "Je m’épuise à force de gémir; Chaque nuit ma couche est baignée de mes larmes, Mon lit est arrosé de mes pleurs."
+            },
+            {
+              "c": 6,
+              "v": 8,
+              "t": "J’ai le visage usé par le chagrin; Tous ceux qui me persécutent le font vieillir."
+            },
+            {
+              "c": 6,
+              "v": 9,
+              "t": "Éloignez-vous de moi, vous tous qui faites le mal! Car l’Éternel entend la voix de mes larmes;"
+            },
+            { "c": 6, "v": 10, "t": "L’Éternel exauce mes supplications, L’Éternel accueille ma prière." },
+            {
+              "c": 6,
+              "v": 11,
+              "t": "Tous mes ennemis sont confondus, saisis d’épouvante; Ils reculent, soudain couverts de honte."
+            }
+          ]
+        },
+        {
+          "reference": "Psaumes 51",
+          "note": null,
+          "verses": [
+            { "c": 51, "v": 1, "t": "Au chef des chantres. Psaume de David." },
+            {
+              "c": 51,
+              "v": 2,
+              "t": "Lorsque Nathan, le prophète, vint à lui, après que David fut allé vers Bath-Schéba."
+            },
+            {
+              "c": 51,
+              "v": 3,
+              "t": "O Dieu! Aie pitié de moi dans ta bonté; Selon ta grande miséricorde, efface mes transgressions;"
+            },
+            { "c": 51, "v": 4, "t": "Lave-moi complètement de mon iniquité, Et purifie-moi de mon péché." },
+            { "c": 51, "v": 5, "t": "Car je reconnais mes transgressions, Et mon péché est constamment devant moi." },
+            {
+              "c": 51,
+              "v": 6,
+              "t": "J’ai péché contre toi seul, Et j’ai fait ce qui est mal à tes yeux, En sorte que tu seras juste dans ta sentence, Sans reproche dans ton jugement."
+            },
+            { "c": 51, "v": 7, "t": "Voici, je suis né dans l’iniquité, Et ma mère m’a conçu dans le péché." },
+            {
+              "c": 51,
+              "v": 8,
+              "t": "Mais tu veux que la vérité soit au fond du cœur: Fais donc pénétrer la sagesse au-dedans de moi!"
+            },
+            {
+              "c": 51,
+              "v": 9,
+              "t": "Purifie-moi avec l’hysope, et je serai pur; Lave-moi, et je serai plus blanc que la neige."
+            },
+            { "c": 51, "v": 10, "t": "Annonce-moi l’allégresse et la joie, Et les os que tu as brisés se réjouiront." },
+            { "c": 51, "v": 11, "t": "Détourne ton regard de mes péchés, Efface toutes mes iniquités." },
+            { "c": 51, "v": 12, "t": "O Dieu! Crée en moi un cœur pur, Renouvelle en moi un esprit bien disposé." },
+            { "c": 51, "v": 13, "t": "Ne me rejette pas loin de ta face, Ne me retire pas ton esprit saint." },
+            { "c": 51, "v": 14, "t": "Rends-moi la joie de ton salut, Et qu’un esprit de bonne volonté me soutienne!" },
+            {
+              "c": 51,
+              "v": 15,
+              "t": "J’enseignerai tes voies à ceux qui les transgressent, Et les pécheurs reviendront à toi."
+            },
+            {
+              "c": 51,
+              "v": 16,
+              "t": "O Dieu, Dieu de mon salut! Délivre-moi du sang versé, Et ma langue célébrera ta miséricorde."
+            },
+            { "c": 51, "v": 17, "t": "Seigneur! Ouvre mes lèvres, Et ma bouche publiera ta louange." },
+            {
+              "c": 51,
+              "v": 18,
+              "t": "Si tu eusses voulu des sacrifices, je t’en aurais offert; Mais tu ne prends point plaisir aux holocaustes."
+            },
+            {
+              "c": 51,
+              "v": 19,
+              "t": "Les sacrifices qui sont agréables à Dieu, c’est un esprit brisé: O Dieu! Tu ne dédaignes pas un cœur brisé et contrit."
+            },
+            { "c": 51, "v": 20, "t": "Répands par ta grâce tes bienfaits sur Sion, Bâtis les murs de Jérusalem!" },
+            {
+              "c": 51,
+              "v": 21,
+              "t": "Alors tu agréeras des sacrifices de justice, Des holocaustes et des victimes tout entières; Alors on offrira des taureaux sur ton autel."
+            }
+          ]
+        },
+        {
+          "reference": "Psaumes 130",
+          "note": null,
+          "verses": [
+            { "c": 130, "v": 1, "t": "Cantique des degrés. Du fond de l’abîme je t’invoque, ô Éternel!" },
+            {
+              "c": 130,
+              "v": 2,
+              "t": "Seigneur, écoute ma voix! Que tes oreilles soient attentives A la voix de mes supplications!"
+            },
+            {
+              "c": 130,
+              "v": 3,
+              "t": "Si tu gardais le souvenir des iniquités, Éternel, Seigneur, qui pourrait subsister?"
+            },
+            { "c": 130, "v": 4, "t": "Mais le pardon se trouve auprès de toi, Afin qu’on te craigne." },
+            { "c": 130, "v": 5, "t": "J’espère en l’Éternel, mon âme espère, Et j’attends sa promesse." },
+            {
+              "c": 130,
+              "v": 6,
+              "t": "Mon âme compte sur le Seigneur, Plus que les gardes ne comptent sur le matin, Que les gardes ne comptent sur le matin."
+            },
+            {
+              "c": 130,
+              "v": 7,
+              "t": "Israël, mets ton espoir en l’Éternel! Car la miséricorde est auprès de l’Éternel, Et la rédemption est auprès de lui en abondance."
+            },
+            { "c": 130, "v": 8, "t": "C’est lui qui rachètera Israël De toutes ses iniquités." }
+          ]
+        },
+        {
+          "reference": "Romains 4:6-8",
+          "note": null,
+          "verses": [
+            {
+              "c": 4,
+              "v": 6,
+              "t": "De même David exprime le bonheur de l’homme à qui Dieu impute la justice sans les œuvres:"
+            },
+            {
+              "c": 4,
+              "v": 7,
+              "t": "Heureux ceux dont les iniquités sont pardonnées, Et dont les péchés sont couverts!"
+            },
+            { "c": 4, "v": 8, "t": "Heureux l’homme à qui le Seigneur n’impute pas son péché!" }
+          ]
+        },
+        {
+          "reference": "Ésaïe 55:6-9",
+          "note": null,
+          "verses": [
+            { "c": 55, "v": 6, "t": "Cherchez l’Éternel pendant qu’il se trouve; Invoquez-le, tandis qu’il est près." },
+            {
+              "c": 55,
+              "v": 7,
+              "t": "Que le méchant abandonne sa voie, Et l’homme d’iniquité ses pensées; Qu’il retourne à l’Éternel, qui aura pitié de lui, A notre Dieu, qui ne se lasse pas de pardonner."
+            },
+            {
+              "c": 55,
+              "v": 8,
+              "t": "Car mes pensées ne sont pas vos pensées, Et vos voies ne sont pas mes voies, Dit l’Éternel."
+            },
+            {
+              "c": 55,
+              "v": 9,
+              "t": "Autant les cieux sont élevés au-dessus de la terre, Autant mes voies sont élevées au-dessus de vos voies, Et mes pensées au-dessus de vos pensées."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "abram-crut-a-la-promesse",
+      "title": "Abram crut à la promesse",
+      "reference": "Genèse 15:1-6",
+      "contextStory": "Abram a quitté son pays à l'appel de Dieu, mais des années plus tard il n'a toujours pas d'enfant. Il s'en plaint à Dieu. Dieu le fait sortir, lui montre les étoiles et lui promet une descendance aussi nombreuse.",
+      "teaching": "Abram fait confiance à Dieu, et Dieu le considère comme juste à cause de cette confiance. La foi consiste à s'appuyer sur la promesse de Dieu avant de la voir réalisée. Paul en fait le modèle de toute foi (Ro 4, Ga 3).",
+      "themes": ["foi"],
+      "verses": [
+        {
+          "c": 15,
+          "v": 1,
+          "t": "Après ces événements, la parole de l’Éternel fut adressée à Abram dans une vision, et il dit: Abram, ne crains point; je suis ton bouclier, et ta récompense sera très grande."
+        },
+        {
+          "c": 15,
+          "v": 2,
+          "t": "Abram répondit: Seigneur Éternel, que me donneras-tu? Je m’en vais sans enfants; et l’héritier de ma maison, c’est Éliézer de Damas."
+        },
+        {
+          "c": 15,
+          "v": 3,
+          "t": "Et Abram dit: Voici, tu ne m’as pas donné de postérité, et celui qui est né dans ma maison sera mon héritier."
+        },
+        {
+          "c": 15,
+          "v": 4,
+          "t": "Alors la parole de l’Éternel lui fut adressée ainsi: Ce n’est pas lui qui sera ton héritier, mais c’est celui qui sortira de tes entrailles qui sera ton héritier."
+        },
+        {
+          "c": 15,
+          "v": 5,
+          "t": "Et après l’avoir conduit dehors, il dit: Regarde vers le ciel, et compte les étoiles, si tu peux les compter. Et il lui dit: Telle sera ta postérité."
+        },
+        { "c": 15, "v": 6, "t": "Abram eut confiance en l’Éternel, qui le lui imputa à justice." }
+      ],
+      "parallels": [
+        {
+          "reference": "Romains 4",
+          "note": null,
+          "verses": [
+            { "c": 4, "v": 1, "t": "Que dirons-nous donc qu’Abraham, notre père, a obtenu selon la chair?" },
+            {
+              "c": 4,
+              "v": 2,
+              "t": "Si Abraham a été justifié par les œuvres, il a sujet de se glorifier, mais non devant Dieu."
+            },
+            { "c": 4, "v": 3, "t": "Car que dit l’Écriture? Abraham crut à Dieu, et cela lui fut imputé à justice." },
+            {
+              "c": 4,
+              "v": 4,
+              "t": "Or, à celui qui fait une œuvre, le salaire est imputé, non comme une grâce, mais comme une chose due;"
+            },
+            {
+              "c": 4,
+              "v": 5,
+              "t": "et à celui qui ne fait point d’œuvre, mais qui croit en celui qui justifie l’impie, sa foi lui est imputée à justice."
+            },
+            {
+              "c": 4,
+              "v": 6,
+              "t": "De même David exprime le bonheur de l’homme à qui Dieu impute la justice sans les œuvres:"
+            },
+            {
+              "c": 4,
+              "v": 7,
+              "t": "Heureux ceux dont les iniquités sont pardonnées, Et dont les péchés sont couverts!"
+            },
+            { "c": 4, "v": 8, "t": "Heureux l’homme à qui le Seigneur n’impute pas son péché!" },
+            {
+              "c": 4,
+              "v": 9,
+              "t": "Ce bonheur n’est-il que pour les circoncis, ou est-il également pour les incirconcis? Car nous disons que la foi fut imputée à justice à Abraham."
+            },
+            {
+              "c": 4,
+              "v": 10,
+              "t": "Comment donc lui fut-elle imputée? Était-ce après, ou avant sa circoncision? Il n’était pas encore circoncis, il était incirconcis."
+            },
+            {
+              "c": 4,
+              "v": 11,
+              "t": "Et il reçut le signe de la circoncision, comme sceau de la justice qu’il avait obtenue par la foi quand il était incirconcis, afin d’être le père de tous les incirconcis qui croient, pour que la justice leur fût aussi imputée,"
+            },
+            {
+              "c": 4,
+              "v": 12,
+              "t": "et le père des circoncis, qui ne sont pas seulement circoncis, mais encore qui marchent sur les traces de la foi de notre père Abraham quand il était incirconcis."
+            },
+            {
+              "c": 4,
+              "v": 13,
+              "t": "En effet, ce n’est pas par la loi que l’héritage du monde a été promis à Abraham ou à sa postérité, c’est par la justice de la foi."
+            },
+            {
+              "c": 4,
+              "v": 14,
+              "t": "Car, si les héritiers le sont par la loi, la foi est vaine, et la promesse est anéantie,"
+            },
+            {
+              "c": 4,
+              "v": 15,
+              "t": "parce que la loi produit la colère, et que là où il n’y a point de loi il n’y a point non plus de transgression."
+            },
+            {
+              "c": 4,
+              "v": 16,
+              "t": "C’est pourquoi les héritiers le sont par la foi, pour que ce soit par grâce, afin que la promesse soit assurée à toute la postérité, non seulement à celle qui est sous la loi, mais aussi à celle qui a la foi d’Abraham, notre père à tous, selon qu’il est écrit:"
+            },
+            {
+              "c": 4,
+              "v": 17,
+              "t": "Je t’ai établi père d’un grand nombre de nations. Il est notre père devant celui auquel il a cru, Dieu, qui donne la vie aux morts, et qui appelle les choses qui ne sont point comme si elles étaient."
+            },
+            {
+              "c": 4,
+              "v": 18,
+              "t": "Espérant contre toute espérance, il crut, en sorte qu’il devint père d’un grand nombre de nations, selon ce qui lui avait été dit: Telle sera ta postérité."
+            },
+            {
+              "c": 4,
+              "v": 19,
+              "t": "Et, sans faiblir dans la foi, il ne considéra point que son corps était déjà usé, puisqu’il avait près de cent ans, et que Sara n’était plus en état d’avoir des enfants."
+            },
+            {
+              "c": 4,
+              "v": 20,
+              "t": "Il ne douta point, par incrédulité, au sujet de la promesse de Dieu; mais il fut fortifié par la foi, donnant gloire à Dieu,"
+            },
+            { "c": 4, "v": 21, "t": "et ayant la pleine conviction que ce qu’il promet il peut aussi l’accomplir." },
+            { "c": 4, "v": 22, "t": "C’est pourquoi cela lui fut imputé à justice." },
+            { "c": 4, "v": 23, "t": "Mais ce n’est pas à cause de lui seul qu’il est écrit que cela lui fut imputé;" },
+            {
+              "c": 4,
+              "v": 24,
+              "t": "c’est encore à cause de nous, à qui cela sera imputé, à nous qui croyons en celui qui a ressuscité des morts Jésus notre Seigneur,"
+            },
+            {
+              "c": 4,
+              "v": 25,
+              "t": "lequel a été livré pour nos offenses, et est ressuscité pour notre justification."
+            }
+          ]
+        },
+        {
+          "reference": "Galates 3:6-9",
+          "note": null,
+          "verses": [
+            { "c": 3, "v": 6, "t": "Comme Abraham crut à Dieu, et que cela lui fut imputé à justice," },
+            { "c": 3, "v": 7, "t": "reconnaissez donc que ce sont ceux qui ont la foi qui sont fils d’Abraham." },
+            {
+              "c": 3,
+              "v": 8,
+              "t": "Aussi l’Écriture, prévoyant que Dieu justifierait les païens par la foi, a d’avance annoncé cette bonne nouvelle à Abraham: Toutes les nations seront bénies en toi!"
+            },
+            { "c": 3, "v": 9, "t": "de sorte que ceux qui croient sont bénis avec Abraham le croyant." }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "passage-de-la-mer-rouge",
+      "title": "Le passage de la mer Rouge",
+      "reference": "Exode 14:1-31",
+      "contextStory": "Israël vient de sortir d'Égypte après quatre siècles d'esclavage. Pharaon change d'avis et le poursuit avec ses chars. Coincé entre l'armée et la mer, le peuple panique. Moïse lui demande de ne pas avoir peur : Dieu ouvre la mer, Israël passe à pied sec, et l'armée égyptienne est engloutie.",
+      "teaching": "Devant une impasse, Dieu peut ouvrir un chemin là où il n'y en a pas. Sa protection invite à rester calme et à avancer avec confiance quand il ouvre la voie.",
+      "themes": ["foi", "protection"],
+      "verses": [
+        { "c": 14, "v": 1, "t": "L’Éternel parla à Moïse, et dit:" },
+        {
+          "c": 14,
+          "v": 2,
+          "t": "Parle aux enfants d’Israël; qu’ils se détournent, et qu’ils campent devant Pi-Hahiroth, entre Migdol et la mer, vis-à-vis de Baal-Tsephon; c’est en face de ce lieu que vous camperez, près de la mer."
+        },
+        {
+          "c": 14,
+          "v": 3,
+          "t": "Pharaon dira des enfants d’Israël: Ils sont égarés dans le pays; le désert les enferme."
+        },
+        {
+          "c": 14,
+          "v": 4,
+          "t": "J’endurcirai le cœur de Pharaon, et il les poursuivra; mais Pharaon et toute son armée serviront à faire éclater ma gloire, et les Égyptiens sauront que je suis l’Éternel. Et les enfants d’Israël firent ainsi."
+        },
+        {
+          "c": 14,
+          "v": 5,
+          "t": "On annonça au roi d’Égypte que le peuple avait pris la fuite. Alors le cœur de Pharaon et celui de ses serviteurs furent changés à l’égard du peuple. Ils dirent: Qu’avons-nous fait, en laissant aller Israël, dont nous n’aurons plus les services?"
+        },
+        { "c": 14, "v": 6, "t": "Et Pharaon attela son char, et il prit son peuple avec lui." },
+        {
+          "c": 14,
+          "v": 7,
+          "t": "Il prit six cents chars d’élite, et tous les chars de l’Égypte; il y avait sur tous des combattants."
+        },
+        {
+          "c": 14,
+          "v": 8,
+          "t": "L’Éternel endurcit le cœur de Pharaon, roi d’Égypte, et Pharaon poursuivit les enfants d’Israël. Les enfants d’Israël étaient sortis la main levée."
+        },
+        {
+          "c": 14,
+          "v": 9,
+          "t": "Les Égyptiens les poursuivirent; et tous les chevaux, les chars de Pharaon, ses cavaliers et son armée, les atteignirent campés près de la mer, vers Pi-Hahiroth, vis-à-vis de Baal-Tsephon."
+        },
+        {
+          "c": 14,
+          "v": 10,
+          "t": "Pharaon approchait. Les enfants d’Israël levèrent les yeux, et voici, les Égyptiens étaient en marche derrière eux. Et les enfants d’Israël eurent une grande frayeur, et crièrent à l’Éternel."
+        },
+        {
+          "c": 14,
+          "v": 11,
+          "t": "Ils dirent à Moïse: N’y avait-il pas des sépulcres en Égypte, sans qu’il fût besoin de nous mener mourir au désert? Que nous as-tu fait en nous faisant sortir d’Égypte?"
+        },
+        {
+          "c": 14,
+          "v": 12,
+          "t": "N’est-ce pas là ce que nous te disions en Égypte: Laisse-nous servir les Égyptiens, car nous aimons mieux servir les Égyptiens que de mourir au désert?"
+        },
+        {
+          "c": 14,
+          "v": 13,
+          "t": "Moïse répondit au peuple: Ne craignez rien, restez en place, et regardez la délivrance que l’Éternel va vous accorder en ce jour; car les Égyptiens que vous voyez aujourd’hui, vous ne les verrez plus jamais."
+        },
+        { "c": 14, "v": 14, "t": "L’Éternel combattra pour vous; et vous, gardez le silence." },
+        {
+          "c": 14,
+          "v": 15,
+          "t": "L’Éternel dit à Moïse: Pourquoi ces cris? Parle aux enfants d’Israël, et qu’ils marchent."
+        },
+        {
+          "c": 14,
+          "v": 16,
+          "t": "Toi, lève ta verge, étends ta main sur la mer, et fends-la; et les enfants d’Israël entreront au milieu de la mer à sec."
+        },
+        {
+          "c": 14,
+          "v": 17,
+          "t": "Et moi, je vais endurcir le cœur des Égyptiens, pour qu’ils y entrent après eux: et Pharaon et toute son armée, ses chars et ses cavaliers, feront éclater ma gloire."
+        },
+        {
+          "c": 14,
+          "v": 18,
+          "t": "Et les Égyptiens sauront que je suis l’Éternel, quand Pharaon, ses chars et ses cavaliers, auront fait éclater ma gloire."
+        },
+        {
+          "c": 14,
+          "v": 19,
+          "t": "L’ange de Dieu, qui allait devant le camp d’Israël, partit et alla derrière eux; et la colonne de nuée qui les précédait, partit et se tint derrière eux."
+        },
+        {
+          "c": 14,
+          "v": 20,
+          "t": "Elle se plaça entre le camp des Égyptiens et le camp d’Israël. Cette nuée était ténébreuse d’un côté, et de l’autre elle éclairait la nuit. Et les deux camps n’approchèrent point l’un de l’autre pendant toute la nuit."
+        },
+        {
+          "c": 14,
+          "v": 21,
+          "t": "Moïse étendit sa main sur la mer. Et l’Éternel refoula la mer par un vent d’orient, qui souffla avec impétuosité toute la nuit; il mit la mer à sec, et les eaux se fendirent."
+        },
+        {
+          "c": 14,
+          "v": 22,
+          "t": "Les enfants d’Israël entrèrent au milieu de la mer à sec, et les eaux formaient comme une muraille à leur droite et à leur gauche."
+        },
+        {
+          "c": 14,
+          "v": 23,
+          "t": "Les Égyptiens les poursuivirent; et tous les chevaux de Pharaon, ses chars et ses cavaliers, entrèrent après eux au milieu de la mer."
+        },
+        {
+          "c": 14,
+          "v": 24,
+          "t": "A la veille du matin, l’Éternel, de la colonne de feu et de nuée, regarda le camp des Égyptiens, et mit en désordre le camp des Égyptiens."
+        },
+        {
+          "c": 14,
+          "v": 25,
+          "t": "Il ôta les roues de leurs chars et en rendit la marche difficile. Les Égyptiens dirent alors: Fuyons devant Israël, car l’Éternel combat pour lui contre les Égyptiens."
+        },
+        {
+          "c": 14,
+          "v": 26,
+          "t": "L’Éternel dit à Moïse: Étends ta main sur la mer; et les eaux reviendront sur les Égyptiens, sur leurs chars et sur leurs cavaliers."
+        },
+        {
+          "c": 14,
+          "v": 27,
+          "t": "Moïse étendit sa main sur la mer. Et vers le matin, la mer reprit son impétuosité, et les Égyptiens s’enfuirent à son approche; mais l’Éternel précipita les Égyptiens au milieu de la mer."
+        },
+        {
+          "c": 14,
+          "v": 28,
+          "t": "Les eaux revinrent, et couvrirent les chars, les cavaliers et toute l’armée de Pharaon, qui étaient entrés dans la mer après les enfants d’Israël; et il n’en échappa pas un seul."
+        },
+        {
+          "c": 14,
+          "v": 29,
+          "t": "Mais les enfants d’Israël marchèrent à sec au milieu de la mer, et les eaux formaient comme une muraille à leur droite et à leur gauche."
+        },
+        {
+          "c": 14,
+          "v": 30,
+          "t": "En ce jour, l’Éternel délivra Israël de la main des Égyptiens; et Israël vit sur le rivage de la mer les Égyptiens qui étaient morts."
+        },
+        {
+          "c": 14,
+          "v": 31,
+          "t": "Israël vit la main puissante que l’Éternel avait dirigée contre les Égyptiens. Et le peuple craignit l’Éternel, et il crut en l’Éternel et en Moïse, son serviteur."
+        }
+      ],
+      "parallels": [
+        {
+          "reference": "Nombres 33:3-8",
+          "note": null,
+          "verses": [
+            {
+              "c": 33,
+              "v": 3,
+              "t": "Ils partirent de Ramsès le premier mois, le quinzième jour du premier mois. Le lendemain de la Pâque, les enfants d’Israël sortirent la main levée, à la vue de tous les Égyptiens."
+            },
+            {
+              "c": 33,
+              "v": 4,
+              "t": "Et les Égyptiens enterraient ceux que l’Éternel avait frappés parmi eux, tous les premiers-nés; l’Éternel exerçait aussi des jugements contre leurs dieux."
+            },
+            { "c": 33, "v": 5, "t": "Les enfants d’Israël partirent de Ramsès, et campèrent à Succoth." },
+            {
+              "c": 33,
+              "v": 6,
+              "t": "Ils partirent de Succoth, et campèrent à Étham, qui est à l’extrémité du désert."
+            },
+            {
+              "c": 33,
+              "v": 7,
+              "t": "Ils partirent d’Étham, se détournèrent vers Pi-Hahiroth, vis-à-vis de Baal-Tsephon, et campèrent devant Migdol."
+            },
+            {
+              "c": 33,
+              "v": 8,
+              "t": "Ils partirent de devant Pi-Hahiroth, et passèrent au milieu de la mer dans la direction du désert; ils firent trois journées de marche dans le désert d’Étham, et campèrent à Mara."
+            }
+          ]
+        },
+        {
+          "reference": "Exode 15:1-21",
+          "note": null,
+          "verses": [
+            {
+              "c": 15,
+              "v": 1,
+              "t": "Alors Moïse et les enfants d’Israël chantèrent ce cantique à l’Éternel. Ils dirent: Je chanterai à l’Éternel, car il a fait éclater sa gloire; Il a précipité dans la mer le cheval et son cavalier."
+            },
+            {
+              "c": 15,
+              "v": 2,
+              "t": "L’Éternel est ma force et le sujet de mes louanges; C’est lui qui m’a sauvé. Il est mon Dieu: je le célèbrerai; Il est le Dieu de mon père: je l’exalterai."
+            },
+            { "c": 15, "v": 3, "t": "L’Éternel est un vaillant guerrier; L’Éternel est son nom." },
+            {
+              "c": 15,
+              "v": 4,
+              "t": "Il a lancé dans la mer les chars de Pharaon et son armée; Ses combattants d’élite ont été engloutis dans la mer Rouge."
+            },
+            {
+              "c": 15,
+              "v": 5,
+              "t": "Les flots les ont couverts: Ils sont descendus au fond des eaux, comme une pierre."
+            },
+            {
+              "c": 15,
+              "v": 6,
+              "t": "Ta droite, ô Éternel! A signalé sa force; Ta droite, ô Éternel! A écrasé l’ennemi."
+            },
+            {
+              "c": 15,
+              "v": 7,
+              "t": "Par la grandeur de ta majesté Tu renverses tes adversaires; Tu déchaînes ta colère: Elle les consume comme du chaume."
+            },
+            {
+              "c": 15,
+              "v": 8,
+              "t": "Au souffle de tes narines, les eaux se sont amoncelées, Les courants se sont dressés comme une muraille, Les flots se sont durcis au milieu de la mer."
+            },
+            {
+              "c": 15,
+              "v": 9,
+              "t": "L’ennemi disait: Je poursuivrai, j’atteindrai, Je partagerai le butin; Ma vengeance sera assouvie, Je tirerai l’épée, ma main les détruira."
+            },
+            {
+              "c": 15,
+              "v": 10,
+              "t": "Tu as soufflé de ton haleine: La mer les a couverts; Ils se sont enfoncés comme du plomb, Dans la profondeur des eaux."
+            },
+            {
+              "c": 15,
+              "v": 11,
+              "t": "Qui est comme toi parmi les dieux, ô Éternel? Qui est comme toi magnifique en sainteté, Digne de louanges, Opérant des prodiges?"
+            },
+            { "c": 15, "v": 12, "t": "Tu as étendu ta droite: La terre les a engloutis." },
+            {
+              "c": 15,
+              "v": 13,
+              "t": "Par ta miséricorde tu as conduit, Tu as délivré ce peuple; Par ta puissance tu le diriges Vers la demeure de ta sainteté."
+            },
+            {
+              "c": 15,
+              "v": 14,
+              "t": "Les peuples l’apprennent, et ils tremblent: La terreur s’empare des Philistins;"
+            },
+            {
+              "c": 15,
+              "v": 15,
+              "t": "Les chefs d’Édom s’épouvantent; Un tremblement saisit les guerriers de Moab; Tous les habitants de Canaan tombent en défaillance."
+            },
+            {
+              "c": 15,
+              "v": 16,
+              "t": "La crainte et la frayeur les surprendront; Par la grandeur de ton bras Ils deviendront muets comme une pierre, Jusqu’à ce que ton peuple soit passé, ô Éternel! Jusqu’à ce qu’il soit passé, Le peuple que tu as acquis."
+            },
+            {
+              "c": 15,
+              "v": 17,
+              "t": "Tu les amèneras et tu les établiras sur la montagne de ton héritage, Au lieu que tu as préparé pour ta demeure, ô Éternel! Au sanctuaire, Seigneur! Que tes mains ont fondé."
+            },
+            { "c": 15, "v": 18, "t": "L’Éternel régnera éternellement et à toujours." },
+            {
+              "c": 15,
+              "v": 19,
+              "t": "Car les chevaux de Pharaon, ses chars et ses cavaliers sont entrés dans la mer, Et l’Éternel a ramené sur eux les eaux de la mer; Mais les enfants d’Israël ont marché à sec au milieu de la mer."
+            },
+            {
+              "c": 15,
+              "v": 20,
+              "t": "Marie, la prophétesse, sœur d’Aaron, prit à sa main un tambourin, et toutes les femmes vinrent après elle, avec des tambourins et en dansant."
+            },
+            {
+              "c": 15,
+              "v": 21,
+              "t": "Marie répondait aux enfants d’Israël: Chantez à l’Éternel, car il a fait éclater sa gloire; Il a précipité dans la mer le cheval et son cavalier."
+            }
+          ]
+        },
+        {
+          "reference": "Josué 24:6",
+          "note": null,
+          "verses": [
+            {
+              "c": 24,
+              "v": 6,
+              "t": "Je fis sortir vos pères de l’Égypte, et vous arrivâtes à la mer. Les Égyptiens poursuivirent vos pères jusqu’à la mer Rouge, avec des chars et des cavaliers."
+            }
+          ]
+        },
+        {
+          "reference": "Josué 24:7",
+          "note": null,
+          "verses": [
+            {
+              "c": 24,
+              "v": 7,
+              "t": "Vos pères crièrent à l’Éternel. Et l’Éternel mit des ténèbres entre vous et les Égyptiens, il ramena sur eux la mer, et elle les couvrit. Vos yeux ont vu ce que j’ai fait aux Égyptiens. Et vous restâtes longtemps dans le désert."
+            }
+          ]
+        },
+        {
+          "reference": "Néhémie 9:9-11",
+          "note": null,
+          "verses": [
+            {
+              "c": 9,
+              "v": 9,
+              "t": "Tu vis l’affliction de nos pères en Égypte, et tu entendis leurs cris vers la mer Rouge."
+            },
+            {
+              "c": 9,
+              "v": 10,
+              "t": "Tu opéras des miracles et des prodiges contre Pharaon, contre tous ses serviteurs et contre tout le peuple de son pays, parce que tu savais avec quelle méchanceté ils avaient traité nos pères, et tu fis paraître ta gloire comme elle paraît aujourd’hui."
+            },
+            {
+              "c": 9,
+              "v": 11,
+              "t": "Tu fendis la mer devant eux, et ils passèrent à sec au milieu de la mer; mais tu précipitas dans l’abîme, comme une pierre au fond des eaux, ceux qui marchaient à leur poursuite."
+            }
+          ]
+        },
+        {
+          "reference": "Psaumes 106:7-11",
+          "note": null,
+          "verses": [
+            {
+              "c": 106,
+              "v": 7,
+              "t": "Nos pères en Égypte ne furent pas attentifs à tes miracles, Ils ne se rappelèrent pas la multitude de tes grâces, Ils furent rebelles près de la mer, près de la mer Rouge."
+            },
+            { "c": 106, "v": 8, "t": "Mais il les sauva à cause de son nom, Pour manifester sa puissance." },
+            {
+              "c": 106,
+              "v": 9,
+              "t": "Il menaça la mer Rouge, et elle se dessécha; Et il les fit marcher à travers les abîmes comme dans un désert."
+            },
+            {
+              "c": 106,
+              "v": 10,
+              "t": "Il les sauva de la main de celui qui les haïssait, Il les délivra de la main de l’ennemi."
+            },
+            { "c": 106, "v": 11, "t": "Les eaux couvrirent leurs adversaires: Il n’en resta pas un seul." }
+          ]
+        },
+        {
+          "reference": "Hébreux 11:29",
+          "note": null,
+          "verses": [
+            {
+              "c": 11,
+              "v": 29,
+              "t": "C’est par la foi qu’ils traversèrent la mer Rouge comme un lieu sec, tandis que les Égyptiens qui en firent la tentative furent engloutis."
+            }
+          ]
+        },
+        {
+          "reference": "1 Corinthiens 10:1",
+          "note": null,
+          "verses": [
+            {
+              "c": 10,
+              "v": 1,
+              "t": "Frères, je ne veux pas que vous ignoriez que nos pères ont tous été sous la nuée, qu’ils ont tous passé au travers de la mer,"
+            }
+          ]
+        },
+        {
+          "reference": "Psaumes 76",
+          "note": null,
+          "verses": [
+            { "c": 76, "v": 1, "t": "Au chef des chantres. Avec instruments à cordes. Psaume d’Asaph. Cantique." },
+            { "c": 76, "v": 2, "t": "Dieu est connu en Juda, Son nom est grand en Israël." },
+            { "c": 76, "v": 3, "t": "Sa tente est à Salem, Et sa demeure à Sion." },
+            {
+              "c": 76,
+              "v": 4,
+              "t": "C’est là qu’il a brisé les flèches, Le bouclier, l’épée et les armes de guerre. — Pause."
+            },
+            { "c": 76, "v": 5, "t": "Tu es plus majestueux, plus puissant Que les montagnes des ravisseurs." },
+            {
+              "c": 76,
+              "v": 6,
+              "t": "Ils ont été dépouillés, ces héros pleins de courage, Ils se sont endormis de leur dernier sommeil; Ils n’ont pas su se défendre, tous ces vaillants hommes."
+            },
+            { "c": 76, "v": 7, "t": "A ta menace, Dieu de Jacob! Ils se sont endormis, cavaliers et chevaux." },
+            { "c": 76, "v": 8, "t": "Tu es redoutable, ô toi! Qui peut te résister, quand ta colère éclate?" },
+            {
+              "c": 76,
+              "v": 9,
+              "t": "Du haut des cieux tu as proclamé la sentence; La terre effrayée s’est tenue tranquille,"
+            },
+            {
+              "c": 76,
+              "v": 10,
+              "t": "Lorsque Dieu s’est levé pour faire justice, Pour sauver tous les malheureux de la terre. — Pause."
+            },
+            {
+              "c": 76,
+              "v": 11,
+              "t": "L’homme te célèbre même dans sa fureur, Quand tu te revêts de tout ton courroux."
+            },
+            {
+              "c": 76,
+              "v": 12,
+              "t": "Faites des vœux à l’Éternel, votre Dieu, et accomplissez-les! Que tous ceux qui l’environnent apportent des dons au Dieu terrible!"
+            },
+            { "c": 76, "v": 13, "t": "Il abat l’orgueil des princes, Il est redoutable aux rois de la terre." }
+          ]
+        },
+        {
+          "reference": "Psaumes 114",
+          "note": null,
+          "verses": [
+            {
+              "c": 114,
+              "v": 1,
+              "t": "Quand Israël sortit d’Égypte, Quand la maison de Jacob s’éloigna d’un peuple barbare,"
+            },
+            { "c": 114, "v": 2, "t": "Juda devint son sanctuaire, Israël fut son domaine." },
+            { "c": 114, "v": 3, "t": "La mer le vit et s’enfuit, Le Jourdain retourna en arrière;" },
+            { "c": 114, "v": 4, "t": "Les montagnes sautèrent comme des béliers, Les collines comme des agneaux." },
+            { "c": 114, "v": 5, "t": "Qu’as-tu, mer, pour t’enfuir, Jourdain, pour retourner en arrière?" },
+            {
+              "c": 114,
+              "v": 6,
+              "t": "Qu’avez-vous, montagnes, pour sauter comme des béliers, Et vous, collines, comme des agneaux?"
+            },
+            { "c": 114, "v": 7, "t": "Tremble devant le Seigneur, ô terre! Devant le Dieu de Jacob," },
+            { "c": 114, "v": 8, "t": "Qui change le rocher en étang, Le roc en source d’eaux." }
+          ]
+        },
+        {
+          "reference": "Psaumes 136:13-15",
+          "note": null,
+          "verses": [
+            { "c": 136, "v": 13, "t": "Celui qui coupa en deux la mer Rouge, Car sa miséricorde dure à toujours!" },
+            { "c": 136, "v": 14, "t": "Qui fit passer Israël au milieu d’elle, Car sa miséricorde dure à toujours!" },
+            {
+              "c": 136,
+              "v": 15,
+              "t": "Et précipita Pharaon et son armée dans la mer Rouge, Car sa miséricorde dure à toujours!"
+            }
+          ]
+        },
+        {
+          "reference": "Ésaïe 8:9",
+          "note": null,
+          "verses": [
+            {
+              "c": 8,
+              "v": 9,
+              "t": "Poussez des cris de guerre, peuples! Et vous serez brisés. Prêtez l’oreille, vous tous qui habitez au loin! Préparez-vous au combat, et vous serez brisés;"
+            }
+          ]
+        },
+        {
+          "reference": "Ésaïe 8:10",
+          "note": null,
+          "verses": [
+            {
+              "c": 8,
+              "v": 10,
+              "t": "Formez des projets, et ils seront anéantis; Donnez des ordres, et ils seront sans effet: Car Dieu est avec nous."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "sous-l-abri-du-tres-haut",
+      "title": "Sous l'abri du Très-Haut",
+      "reference": "Psaumes 91",
+      "contextStory": "Psaume de confiance pour celui qui se réfugie auprès de Dieu. Il passe en revue les dangers de la nuit et du jour — piège, épidémie, flèche, attaque — et se termine par une promesse dite par Dieu lui-même.",
+      "teaching": "La sécurité du croyant ne vient pas de l'absence de danger, mais de la présence de Dieu. Quand le diable a cité ce psaume pour pousser Jésus à se jeter du haut du temple (Mt 4), Jésus a refusé : on s'y confie, on ne s'en sert pas pour mettre Dieu à l'épreuve.",
+      "themes": ["protection"],
+      "verses": [
+        { "c": 91, "v": 1, "t": "Celui qui demeure sous l’abri du Très-Haut Repose à l’ombre du Tout-Puissant." },
+        { "c": 91, "v": 2, "t": "Je dis à l’Éternel: Mon refuge et ma forteresse, Mon Dieu en qui je me confie!" },
+        { "c": 91, "v": 3, "t": "Car c’est lui qui te délivre du filet de l’oiseleur, De la peste et de ses ravages." },
+        {
+          "c": 91,
+          "v": 4,
+          "t": "Il te couvrira de ses plumes, Et tu trouveras un refuge sous ses ailes; Sa fidélité est un bouclier et une cuirasse."
+        },
+        { "c": 91, "v": 5, "t": "Tu ne craindras ni les terreurs de la nuit, Ni la flèche qui vole de jour," },
+        { "c": 91, "v": 6, "t": "Ni la peste qui marche dans les ténèbres, Ni la contagion qui frappe en plein midi." },
+        { "c": 91, "v": 7, "t": "Que mille tombent à ton côté, Et dix mille à ta droite, Tu ne seras pas atteint;" },
+        { "c": 91, "v": 8, "t": "De tes yeux seulement tu regarderas, Et tu verras la rétribution des méchants." },
+        { "c": 91, "v": 9, "t": "Car tu es mon refuge, ô Éternel! Tu fais du Très-Haut ta retraite." },
+        { "c": 91, "v": 10, "t": "Aucun malheur ne t’arrivera, Aucun fléau n’approchera de ta tente." },
+        { "c": 91, "v": 11, "t": "Car il ordonnera à ses anges De te garder dans toutes tes voies;" },
+        { "c": 91, "v": 12, "t": "Ils te porteront sur les mains, De peur que ton pied ne heurte contre une pierre." },
+        { "c": 91, "v": 13, "t": "Tu marcheras sur le lion et sur l’aspic, Tu fouleras le lionceau et le dragon." },
+        { "c": 91, "v": 14, "t": "Puisqu’il m’aime, je le délivrerai; Je le protégerai, puisqu’il connaît mon nom." },
+        {
+          "c": 91,
+          "v": 15,
+          "t": "Il m’invoquera, et je lui répondrai; Je serai avec lui dans la détresse, Je le délivrerai et je le glorifierai."
+        },
+        { "c": 91, "v": 16, "t": "Je le rassasierai de longs jours, Et je lui ferai voir mon salut." }
+      ],
+      "parallels": [
+        {
+          "reference": "Proverbes 18:10",
+          "note": null,
+          "verses": [
+            {
+              "c": 18,
+              "v": 10,
+              "t": "Le nom de l’Éternel est une tour forte; Le juste s’y réfugie, et se trouve en sûreté."
+            }
+          ]
+        },
+        {
+          "reference": "Job 5:19-26",
+          "note": null,
+          "verses": [
+            { "c": 5, "v": 19, "t": "Six fois il te délivrera de l’angoisse, Et sept fois le mal ne t’atteindra pas." },
+            {
+              "c": 5,
+              "v": 20,
+              "t": "Il te sauvera de la mort pendant la famine, Et des coups du glaive pendant la guerre."
+            },
+            {
+              "c": 5,
+              "v": 21,
+              "t": "Tu seras à l’abri du fléau de la langue, Tu seras sans crainte quand viendra la dévastation."
+            },
+            {
+              "c": 5,
+              "v": 22,
+              "t": "Tu te riras de la dévastation comme de la famine, Et tu n’auras pas à redouter les bêtes de la terre;"
+            },
+            {
+              "c": 5,
+              "v": 23,
+              "t": "Car tu feras alliance avec les pierres des champs, Et les bêtes de la terre seront en paix avec toi."
+            },
+            { "c": 5, "v": 24, "t": "Tu jouiras du bonheur sous ta tente, Tu retrouveras tes troupeaux au complet," },
+            {
+              "c": 5,
+              "v": 25,
+              "t": "Tu verras ta postérité s’accroître, Et tes rejetons se multiplier comme l’herbe des champs."
+            },
+            {
+              "c": 5,
+              "v": 26,
+              "t": "Tu entreras au sépulcre dans la vieillesse, Comme on emporte une gerbe en son temps."
+            }
+          ]
+        },
+        {
+          "reference": "Psaumes 121",
+          "note": null,
+          "verses": [
+            {
+              "c": 121,
+              "v": 1,
+              "t": "Cantique des degrés. Je lève mes yeux vers les montagnes… D’où me viendra le secours?"
+            },
+            { "c": 121, "v": 2, "t": "Le secours me vient de l’Éternel, Qui a fait les cieux et la terre." },
+            {
+              "c": 121,
+              "v": 3,
+              "t": "Il ne permettra point que ton pied chancelle; Celui qui te garde ne sommeillera point."
+            },
+            { "c": 121, "v": 4, "t": "Voici, il ne sommeille ni ne dort, Celui qui garde Israël." },
+            { "c": 121, "v": 5, "t": "L’Éternel est celui qui te garde, L’Éternel est ton ombre à ta main droite." },
+            { "c": 121, "v": 6, "t": "Pendant le jour le soleil ne te frappera point, Ni la lune pendant la nuit." },
+            { "c": 121, "v": 7, "t": "L’Éternel te gardera de tout mal, Il gardera ton âme;" },
+            { "c": 121, "v": 8, "t": "L’Éternel gardera ton départ et ton arrivée, Dès maintenant et à jamais." }
+          ]
+        },
+        {
+          "reference": "Psaumes 34",
+          "note": null,
+          "verses": [
+            {
+              "c": 34,
+              "v": 1,
+              "t": "De David. Lorsqu’il contrefit l’insensé en présence d’Abimélec, et qu’il s’en alla chassé par lui."
+            },
+            { "c": 34, "v": 2, "t": "Je bénirai l’Éternel en tout temps; Sa louange sera toujours dans ma bouche." },
+            {
+              "c": 34,
+              "v": 3,
+              "t": "Que mon âme se glorifie en l’Éternel! Que les malheureux écoutent et se réjouissent!"
+            },
+            { "c": 34, "v": 4, "t": "Exaltez avec moi l’Éternel! Célébrons tous son nom!" },
+            {
+              "c": 34,
+              "v": 5,
+              "t": "J’ai cherché l’Éternel, et il m’a répondu; Il m’a délivré de toutes mes frayeurs."
+            },
+            {
+              "c": 34,
+              "v": 6,
+              "t": "Quand on tourne vers lui les regards, on est rayonnant de joie, Et le visage ne se couvre pas de honte."
+            },
+            {
+              "c": 34,
+              "v": 7,
+              "t": "Quand un malheureux crie, l’Éternel entend, Et il le sauve de toutes ses détresses."
+            },
+            {
+              "c": 34,
+              "v": 8,
+              "t": "L’ange de l’Éternel campe autour de ceux qui le craignent, Et il les arrache au danger."
+            },
+            {
+              "c": 34,
+              "v": 9,
+              "t": "Sentez et voyez combien l’Éternel est bon! Heureux l’homme qui cherche en lui son refuge!"
+            },
+            {
+              "c": 34,
+              "v": 10,
+              "t": "Craignez l’Éternel, vous ses saints! Car rien ne manque à ceux qui le craignent."
+            },
+            {
+              "c": 34,
+              "v": 11,
+              "t": "Les lionceaux éprouvent la disette et la faim, Mais ceux qui cherchent l’Éternel ne sont privés d’aucun bien."
+            },
+            { "c": 34, "v": 12, "t": "Venez, mes fils, écoutez-moi! Je vous enseignerai la crainte de l’Éternel." },
+            {
+              "c": 34,
+              "v": 13,
+              "t": "Quel est l’homme qui aime la vie, Qui désire la prolonger pour jouir du bonheur?"
+            },
+            { "c": 34, "v": 14, "t": "Préserve ta langue du mal, Et tes lèvres des paroles trompeuses;" },
+            { "c": 34, "v": 15, "t": "Éloigne-toi du mal, et fais le bien; Recherche et poursuis la paix." },
+            {
+              "c": 34,
+              "v": 16,
+              "t": "Les yeux de l’Éternel sont sur les justes, Et ses oreilles sont attentives à leurs cris."
+            },
+            {
+              "c": 34,
+              "v": 17,
+              "t": "L’Éternel tourne sa face contre les méchants, Pour retrancher de la terre leur souvenir."
+            },
+            {
+              "c": 34,
+              "v": 18,
+              "t": "Quand les justes crient, l’Éternel entend, Et il les délivre de toutes leurs détresses;"
+            },
+            {
+              "c": 34,
+              "v": 19,
+              "t": "L’Éternel est près de ceux qui ont le cœur brisé, Et il sauve ceux qui ont l’esprit dans l’abattement."
+            },
+            { "c": 34, "v": 20, "t": "Le malheur atteint souvent le juste, Mais l’Éternel l’en délivre toujours." },
+            { "c": 34, "v": 21, "t": "Il garde tous ses os, Aucun d’eux n’est brisé." },
+            { "c": 34, "v": 22, "t": "Le malheur tue le méchant, Et les ennemis du juste sont châtiés." },
+            {
+              "c": 34,
+              "v": 23,
+              "t": "L’Éternel délivre l’âme de ses serviteurs, Et tous ceux qui l’ont pour refuge échappent au châtiment."
+            }
+          ]
+        },
+        {
+          "reference": "Psaumes 62",
+          "note": null,
+          "verses": [
+            { "c": 62, "v": 1, "t": "Au chef des chantres. D’après Jeduthun. Psaume de David." },
+            { "c": 62, "v": 2, "t": "Oui, c’est en Dieu que mon âme se confie; De lui vient mon salut." },
+            {
+              "c": 62,
+              "v": 3,
+              "t": "Oui, c’est lui qui est mon rocher et mon salut; Ma haute retraite: je ne chancellerai guère."
+            },
+            {
+              "c": 62,
+              "v": 4,
+              "t": "Jusqu’à quand vous jetterez-vous sur un homme, Chercherez-vous tous à l’abattre, Comme une muraille qui penche, Comme une clôture qu’on renverse?"
+            },
+            {
+              "c": 62,
+              "v": 5,
+              "t": "Ils conspirent pour le précipiter de son poste élevé; Ils prennent plaisir au mensonge; Ils bénissent de leur bouche, Et ils maudissent dans leur cœur. — Pause."
+            },
+            { "c": 62, "v": 6, "t": "Oui, mon âme, confie-toi en Dieu! Car de lui vient mon espérance." },
+            {
+              "c": 62,
+              "v": 7,
+              "t": "Oui, c’est lui qui est mon rocher et mon salut; Ma haute retraite: je ne chancellerai pas."
+            },
+            {
+              "c": 62,
+              "v": 8,
+              "t": "Sur Dieu reposent mon salut et ma gloire; Le rocher de ma force, mon refuge, est en Dieu."
+            },
+            {
+              "c": 62,
+              "v": 9,
+              "t": "En tout temps, peuples, confiez-vous en lui, Répandez vos cœurs en sa présence! Dieu est notre refuge, — Pause."
+            },
+            {
+              "c": 62,
+              "v": 10,
+              "t": "Oui, vanité, les fils de l’homme! Mensonge, les fils de l’homme! Dans une balance ils monteraient Tous ensemble, plus légers qu’un souffle."
+            },
+            {
+              "c": 62,
+              "v": 11,
+              "t": "Ne vous confiez pas dans la violence, Et ne mettez pas un vain espoir dans la rapine; Quand les richesses s’accroissent, N’y attachez pas votre cœur."
+            },
+            {
+              "c": 62,
+              "v": 12,
+              "t": "Dieu a parlé une fois; Deux fois j’ai entendu ceci: C’est que la force est à Dieu."
+            },
+            { "c": 62, "v": 13, "t": "A toi aussi, Seigneur! La bonté; Car tu rends à chacun selon ses œuvres." }
+          ]
+        },
+        {
+          "reference": "Deutéronome 33:12",
+          "note": null,
+          "verses": [
+            {
+              "c": 33,
+              "v": 12,
+              "t": "Sur Benjamin il dit: C’est le bien-aimé de l’Éternel, Il habitera en sécurité auprès de lui; L’Éternel le couvrira toujours, Et résidera entre ses épaules."
+            }
+          ]
+        },
+        {
+          "reference": "Deutéronome 33:28",
+          "note": null,
+          "verses": [
+            {
+              "c": 33,
+              "v": 28,
+              "t": "Israël est en sécurité dans sa demeure, La source de Jacob est à part Dans un pays de blé et de moût, Et son ciel distille la rosée."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "l-eternel-est-mon-berger",
+      "title": "L'Éternel est mon berger",
+      "reference": "Psaumes 23",
+      "contextStory": "David a été berger avant d'être roi. Il connaît le travail du berger : trouver de l'herbe et de l'eau, guider, défendre le troupeau contre les bêtes sauvages. Il décrit Dieu avec ces images.",
+      "teaching": "Celui qui se laisse conduire par Dieu ne manque de rien d'essentiel, même dans la vallée la plus sombre. Jésus se présente comme le bon berger qui donne sa vie pour ses brebis (Jn 10).",
+      "themes": ["foi", "protection"],
+      "verses": [
+        { "c": 23, "v": 1, "t": "Cantique de David. L’Éternel est mon berger: je ne manquerai de rien." },
+        { "c": 23, "v": 2, "t": "Il me fait reposer dans de verts pâturages, Il me dirige près des eaux paisibles." },
+        {
+          "c": 23,
+          "v": 3,
+          "t": "Il restaure mon âme, Il me conduit dans les sentiers de la justice, A cause de son nom."
+        },
+        {
+          "c": 23,
+          "v": 4,
+          "t": "Quand je marche dans la vallée de l’ombre de la mort, Je ne crains aucun mal, car tu es avec moi: Ta houlette et ton bâton me rassurent."
+        },
+        {
+          "c": 23,
+          "v": 5,
+          "t": "Tu dresses devant moi une table, En face de mes adversaires; Tu oins d’huile ma tête, Et ma coupe déborde."
+        },
+        {
+          "c": 23,
+          "v": 6,
+          "t": "Oui, le bonheur et la grâce m’accompagneront Tous les jours de ma vie, Et j’habiterai dans la maison de l’Éternel Jusqu’à la fin de mes jours."
+        }
+      ],
+      "parallels": [
+        {
+          "reference": "Ésaïe 40:11",
+          "note": null,
+          "verses": [
+            {
+              "c": 40,
+              "v": 11,
+              "t": "Comme un berger, il paîtra son troupeau, Il prendra les agneaux dans ses bras, Et les portera dans son sein; Il conduira les brebis qui allaitent."
+            }
+          ]
+        },
+        {
+          "reference": "Ézéchiel 34:11-31",
+          "note": null,
+          "verses": [
+            {
+              "c": 34,
+              "v": 11,
+              "t": "Car ainsi parle le Seigneur, l’Éternel: Voici, j’aurai soin moi-même de mes brebis, et j’en ferai la revue."
+            },
+            {
+              "c": 34,
+              "v": 12,
+              "t": "Comme un pasteur inspecte son troupeau quand il est au milieu de ses brebis éparses, ainsi je ferai la revue de mes brebis, et je les recueillerai de tous les lieux où elles ont été dispersées au jour des nuages et de l’obscurité."
+            },
+            {
+              "c": 34,
+              "v": 13,
+              "t": "Je les retirerai d’entre les peuples, je les rassemblerai des diverses contrées, et je les ramènerai dans leur pays; je les ferai paître sur les montagnes d’Israël, le long des ruisseaux, et dans tous les lieux habités du pays."
+            },
+            {
+              "c": 34,
+              "v": 14,
+              "t": "Je les ferai paître dans un bon pâturage, et leur demeure sera sur les montagnes élevées d’Israël; là elles reposeront dans un agréable asile, et elles auront de gras pâturages sur les montagnes d’Israël."
+            },
+            {
+              "c": 34,
+              "v": 15,
+              "t": "C’est moi qui ferai paître mes brebis, c’est moi qui les ferai reposer, dit le Seigneur, l’Éternel."
+            },
+            {
+              "c": 34,
+              "v": 16,
+              "t": "Je chercherai celle qui était perdue, je ramènerai celle qui était égarée, je panserai celle qui est blessée, et je fortifierai celle qui est malade. Mais je détruirai celles qui sont grasses et vigoureuses. Je veux les paître avec justice."
+            },
+            {
+              "c": 34,
+              "v": 17,
+              "t": "Et vous, mes brebis, ainsi parle le Seigneur, l’Éternel: Voici, je jugerai entre brebis et brebis, entre béliers et boucs."
+            },
+            {
+              "c": 34,
+              "v": 18,
+              "t": "Est-ce trop peu pour vous de paître dans le bon pâturage, pour que vous fouliez de vos pieds le reste de votre pâturage? De boire une eau limpide, pour que vous troubliez le reste avec vos pieds?"
+            },
+            {
+              "c": 34,
+              "v": 19,
+              "t": "Et mes brebis doivent paître ce que vos pieds ont foulé, et boire ce que vos pieds ont troublé!"
+            },
+            {
+              "c": 34,
+              "v": 20,
+              "t": "C’est pourquoi ainsi leur parle le Seigneur, l’Éternel: Voici, je jugerai entre la brebis grasse et la brebis maigre."
+            },
+            {
+              "c": 34,
+              "v": 21,
+              "t": "Parce que vous avez heurté avec le côté et avec l’épaule, et frappé de vos cornes toutes les brebis faibles, jusqu’à ce que vous les ayez chassées,"
+            },
+            {
+              "c": 34,
+              "v": 22,
+              "t": "je porterai secours à mes brebis, afin qu’elles ne soient plus au pillage, et je jugerai entre brebis et brebis."
+            },
+            {
+              "c": 34,
+              "v": 23,
+              "t": "J’établirai sur elles un seul pasteur, qui les fera paître, mon serviteur David; il les fera paître, il sera leur pasteur."
+            },
+            {
+              "c": 34,
+              "v": 24,
+              "t": "Moi, l’Éternel, je serai leur Dieu, et mon serviteur David sera prince au milieu d’elles. Moi, l’Éternel, j’ai parlé."
+            },
+            {
+              "c": 34,
+              "v": 25,
+              "t": "Je traiterai avec elles une alliance de paix, et je ferai disparaître du pays les animaux sauvages; elles habiteront en sécurité dans le désert, et dormiront au milieu des forêts."
+            },
+            {
+              "c": 34,
+              "v": 26,
+              "t": "Je ferai d’elles et des environs de ma colline un sujet de bénédiction; j’enverrai la pluie en son temps, et ce sera une pluie de bénédiction."
+            },
+            {
+              "c": 34,
+              "v": 27,
+              "t": "L’arbre des champs donnera son fruit, et la terre donnera ses produits. Elles seront en sécurité dans leur pays; et elles sauront que je suis l’Éternel, quand je briserai les liens de leur joug, et que je les délivrerai de la main de ceux qui les asservissaient."
+            },
+            {
+              "c": 34,
+              "v": 28,
+              "t": "Elles ne seront plus au pillage parmi les nations, les bêtes de la terre ne les dévoreront plus, elles habiteront en sécurité, et il n’y aura personne pour les troubler."
+            },
+            {
+              "c": 34,
+              "v": 29,
+              "t": "J’établirai pour elles une plantation qui aura du renom; elles ne seront plus consumées par la faim dans le pays, et elles ne porteront plus l’opprobre des nations."
+            },
+            {
+              "c": 34,
+              "v": 30,
+              "t": "Et elles sauront que moi, l’Éternel, leur Dieu, je suis avec elles, et qu’elles sont mon peuple, elles, la maison d’Israël, dit le Seigneur, l’Éternel."
+            },
+            {
+              "c": 34,
+              "v": 31,
+              "t": "Vous, mes brebis, brebis de mon pâturage, vous êtes des hommes; moi, je suis votre Dieu, dit le Seigneur, l’Éternel."
+            }
+          ]
+        },
+        {
+          "reference": "Jean 10:10-30",
+          "note": null,
+          "verses": [
+            {
+              "c": 10,
+              "v": 10,
+              "t": "Le voleur ne vient que pour dérober, égorger et détruire; moi, je suis venu afin que les brebis aient la vie, et qu’elles soient dans l’abondance."
+            },
+            { "c": 10, "v": 11, "t": "Je suis le bon berger. Le bon berger donne sa vie pour ses brebis." },
+            {
+              "c": 10,
+              "v": 12,
+              "t": "Mais le mercenaire, qui n’est pas le berger, et à qui n’appartiennent pas les brebis, voit venir le loup, abandonne les brebis, et prend la fuite; et le loup les ravit et les disperse."
+            },
+            {
+              "c": 10,
+              "v": 13,
+              "t": "Le mercenaire s’enfuit, parce qu’il est mercenaire, et qu’il ne se met point en peine des brebis. Je suis le bon berger."
+            },
+            { "c": 10, "v": 14, "t": "Je connais mes brebis, et elles me connaissent," },
+            {
+              "c": 10,
+              "v": 15,
+              "t": "comme le Père me connaît et comme je connais le Père; et je donne ma vie pour mes brebis."
+            },
+            {
+              "c": 10,
+              "v": 16,
+              "t": "J’ai encore d’autres brebis, qui ne sont pas de cette bergerie; celles-là, il faut que je les amène; elles entendront ma voix, et il y aura un seul troupeau, un seul berger."
+            },
+            { "c": 10, "v": 17, "t": "Le Père m’aime, parce que je donne ma vie, afin de la reprendre." },
+            {
+              "c": 10,
+              "v": 18,
+              "t": "Personne ne me l’ôte, mais je la donne de moi-même; j’ai le pouvoir de la donner, et j’ai le pouvoir de la reprendre: tel est l’ordre que j’ai reçu de mon Père."
+            },
+            { "c": 10, "v": 19, "t": "Il y eut de nouveau, à cause de ces paroles, division parmi les Juifs." },
+            {
+              "c": 10,
+              "v": 20,
+              "t": "Plusieurs d’entre eux disaient: Il a un démon, il est fou; pourquoi l’écoutez-vous?"
+            },
+            {
+              "c": 10,
+              "v": 21,
+              "t": "D’autres disaient: Ce ne sont pas les paroles d’un démoniaque; un démon peut-il ouvrir les yeux des aveugles?"
+            },
+            { "c": 10, "v": 22, "t": "On célébrait à Jérusalem la fête de la Dédicace. C’était l’hiver." },
+            { "c": 10, "v": 23, "t": "Et Jésus se promenait dans le temple, sous le portique de Salomon." },
+            {
+              "c": 10,
+              "v": 24,
+              "t": "Les Juifs l’entourèrent, et lui dirent: Jusques à quand tiendras-tu notre esprit en suspens? Si tu es le Christ, dis-le nous franchement."
+            },
+            {
+              "c": 10,
+              "v": 25,
+              "t": "Jésus leur répondit: Je vous l’ai dit, et vous ne croyez pas. Les œuvres que je fais au nom de mon Père rendent témoignage de moi."
+            },
+            { "c": 10, "v": 26, "t": "Mais vous ne croyez pas, parce que vous n’êtes pas de mes brebis." },
+            { "c": 10, "v": 27, "t": "Mes brebis entendent ma voix; je les connais, et elles me suivent." },
+            {
+              "c": 10,
+              "v": 28,
+              "t": "Je leur donne la vie éternelle; et elles ne périront jamais, et personne ne les ravira de ma main."
+            },
+            {
+              "c": 10,
+              "v": 29,
+              "t": "Mon Père, qui me les a données, est plus grand que tous; et personne ne peut les ravir de la main de mon Père."
+            },
+            { "c": 10, "v": 30, "t": "Moi et le Père nous sommes un." }
+          ]
+        },
+        {
+          "reference": "Apocalypse 7:16",
+          "note": null,
+          "verses": [
+            {
+              "c": 7,
+              "v": 16,
+              "t": "ils n’auront plus faim, ils n’auront plus soif, et le soleil ne les frappera point, ni aucune chaleur."
+            }
+          ]
+        },
+        {
+          "reference": "Apocalypse 7:17",
+          "note": null,
+          "verses": [
+            {
+              "c": 7,
+              "v": 17,
+              "t": "Car l’agneau qui est au milieu du trône les paîtra et les conduira aux sources des eaux de la vie, et Dieu essuiera toute larme de leurs yeux."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "souviens-toi-de-celui-qui-donne-la-force",
+      "title": "C’est Dieu qui donne la force d’acquérir",
+      "reference": "Deutéronome 8:1-20",
+      "contextStory": "Après quarante ans dans le désert, Israël est sur le point d'entrer dans le pays promis. Moïse annonce une terre riche en blé, vignes, fer et cuivre, et met le peuple en garde : une fois rassasié, il risque d'oublier Dieu.",
+      "teaching": "La réussite peut rendre orgueilleux. Moïse rappelle que c'est Dieu qui donne la force de produire la richesse (v. 18). L'entrepreneur reste reconnaissant et fidèle quand les affaires prospèrent.",
+      "themes": ["entrepreneuriat"],
+      "verses": [
+        {
+          "c": 8,
+          "v": 1,
+          "t": "Vous observerez et vous mettrez en pratique tous les commandements que je vous prescris aujourd’hui, afin que vous viviez, que vous multipliiez, et que vous entriez en possession du pays que l’Éternel a juré de donner à vos pères."
+        },
+        {
+          "c": 8,
+          "v": 2,
+          "t": "Souviens-toi de tout le chemin que l’Éternel, ton Dieu, t’a fait faire pendant ces quarante années dans le désert, afin de t’humilier et de t’éprouver, pour savoir quelles étaient les dispositions de ton cœur et si tu garderais ou non ses commandements."
+        },
+        {
+          "c": 8,
+          "v": 3,
+          "t": "Il t’a humilié, il t’a fait souffrir de la faim, et il t’a nourri de la manne, que tu ne connaissais pas et que n’avaient pas connue tes pères, afin de t’apprendre que l’homme ne vit pas de pain seulement, mais que l’homme vit de tout ce qui sort de la bouche de l’Éternel."
+        },
+        {
+          "c": 8,
+          "v": 4,
+          "t": "Ton vêtement ne s’est point usé sur toi, et ton pied ne s’est point enflé, pendant ces quarante années."
+        },
+        {
+          "c": 8,
+          "v": 5,
+          "t": "Reconnais en ton cœur que l’Éternel, ton Dieu, te châtie comme un homme châtie son enfant."
+        },
+        {
+          "c": 8,
+          "v": 6,
+          "t": "Tu observeras les commandements de l’Éternel, ton Dieu, pour marcher dans ses voies et pour le craindre."
+        },
+        {
+          "c": 8,
+          "v": 7,
+          "t": "Car l’Éternel, ton Dieu, va te faire entrer dans un bon pays, pays de cours d’eaux, de sources et de lacs, qui jaillissent dans les vallées et dans les montagnes;"
+        },
+        {
+          "c": 8,
+          "v": 8,
+          "t": "pays de froment, d’orge, de vignes, de figuiers et de grenadiers; pays d’oliviers et de miel;"
+        },
+        {
+          "c": 8,
+          "v": 9,
+          "t": "pays où tu mangeras du pain avec abondance, où tu ne manqueras de rien; pays dont les pierres sont du fer, et des montagnes duquel tu tailleras l’airain."
+        },
+        {
+          "c": 8,
+          "v": 10,
+          "t": "Lorsque tu mangeras et te rassasieras, tu béniras l’Éternel, ton Dieu, pour le bon pays qu’il t’a donné."
+        },
+        {
+          "c": 8,
+          "v": 11,
+          "t": "Garde-toi d’oublier l’Éternel, ton Dieu, au point de ne pas observer ses commandements, ses ordonnances et ses lois, que je te prescris aujourd’hui."
+        },
+        {
+          "c": 8,
+          "v": 12,
+          "t": "Lorsque tu mangeras et te rassasieras, lorsque tu bâtiras et habiteras de belles maisons,"
+        },
+        {
+          "c": 8,
+          "v": 13,
+          "t": "lorsque tu verras multiplier ton gros et ton menu bétail, s’augmenter ton argent et ton or, et s’accroître tout ce qui est à toi,"
+        },
+        {
+          "c": 8,
+          "v": 14,
+          "t": "prends garde que ton cœur ne s’enfle, et que tu n’oublies l’Éternel, ton Dieu, qui t’a fait sortir du pays d’Égypte, de la maison de servitude,"
+        },
+        {
+          "c": 8,
+          "v": 15,
+          "t": "qui t’a fait marcher dans ce grand et affreux désert, où il y a des serpents brûlants et des scorpions, dans des lieux arides et sans eau, et qui a fait jaillir pour toi de l’eau du rocher le plus dur,"
+        },
+        {
+          "c": 8,
+          "v": 16,
+          "t": "qui t’a fait manger dans le désert la manne inconnue à tes pères, afin de t’humilier et de t’éprouver, pour te faire ensuite du bien."
+        },
+        {
+          "c": 8,
+          "v": 17,
+          "t": "Garde-toi de dire en ton cœur: Ma force et la puissance de ma main m’ont acquis ces richesses."
+        },
+        {
+          "c": 8,
+          "v": 18,
+          "t": "Souviens-toi de l’Éternel, ton Dieu, car c’est lui qui te donnera de la force pour les acquérir, afin de confirmer, comme il le fait aujourd’hui, son alliance qu’il a jurée à tes pères."
+        },
+        {
+          "c": 8,
+          "v": 19,
+          "t": "Si tu oublies l’Éternel, ton Dieu, et que tu ailles après d’autres dieux, si tu les sers et te prosternes devant eux, je vous déclare formellement aujourd’hui que vous périrez."
+        },
+        {
+          "c": 8,
+          "v": 20,
+          "t": "Vous périrez comme les nations que l’Éternel fait périr devant vous, parce que vous n’aurez point écouté la voix de l’Éternel, votre Dieu."
+        }
+      ],
+      "parallels": [
+        {
+          "reference": "Deutéronome 11:1-17",
+          "note": null,
+          "verses": [
+            {
+              "c": 11,
+              "v": 1,
+              "t": "Tu aimeras l’Éternel, ton Dieu, et tu observeras toujours ses préceptes, ses lois, ses ordonnances et ses commandements."
+            },
+            {
+              "c": 11,
+              "v": 2,
+              "t": "Reconnaissez aujourd’hui – ce que n’ont pu connaître et voir vos enfants – les châtiments de l’Éternel, votre Dieu, sa grandeur, sa main forte et son bras étendu,"
+            },
+            {
+              "c": 11,
+              "v": 3,
+              "t": "ses signes et ses actes qu’il a accomplis au milieu de l’Égypte contre Pharaon, roi d’Égypte, et contre tout son pays."
+            },
+            {
+              "c": 11,
+              "v": 4,
+              "t": "Reconnaissez ce qu’il a fait à l’armée d’Égypte, à ses chevaux et à ses chars, comment il a fait couler sur eux les eaux de la mer Rouge, lorsqu’ils vous poursuivaient, et les a détruits pour toujours;"
+            },
+            { "c": 11, "v": 5, "t": "ce qu’il vous a fait dans le désert, jusqu’à votre arrivée en ce lieu;" },
+            {
+              "c": 11,
+              "v": 6,
+              "t": "ce qu’il a fait à Dathan et à Abiram, fils d’Éliab, fils de Ruben, comment la terre ouvrit sa bouche et les engloutit, avec leurs maisons et leurs tentes et tout ce qui était à leur suite, au milieu de tout Israël."
+            },
+            { "c": 11, "v": 7, "t": "Car vos yeux ont vu toutes les grandes choses que l’Éternel a faites." },
+            {
+              "c": 11,
+              "v": 8,
+              "t": "Ainsi, vous observerez tous les commandements que je vous prescris aujourd’hui, afin que vous ayez la force de vous emparer du pays où vous allez passer pour en prendre possession,"
+            },
+            {
+              "c": 11,
+              "v": 9,
+              "t": "et afin que vous prolongiez vos jours dans le pays que l’Éternel a juré à vos pères de leur donner, à eux et à leur postérité, pays où coulent le lait et le miel."
+            },
+            {
+              "c": 11,
+              "v": 10,
+              "t": "Car le pays dont tu vas entrer en possession, n’est pas comme le pays d’Égypte, d’où vous êtes sortis, où tu jetais dans les champs ta semence et les arrosais avec ton pied comme un jardin potager."
+            },
+            {
+              "c": 11,
+              "v": 11,
+              "t": "Le pays que vous allez posséder est un pays de montagnes et de vallées, et qui boit les eaux de la pluie du ciel;"
+            },
+            {
+              "c": 11,
+              "v": 12,
+              "t": "c’est un pays dont l’Éternel, ton Dieu, prend soin, et sur lequel l’Éternel, ton Dieu, a continuellement les yeux, du commencement à la fin de l’année."
+            },
+            {
+              "c": 11,
+              "v": 13,
+              "t": "Si vous obéissez à mes commandements que je vous prescris aujourd’hui, si vous aimez l’Éternel, votre Dieu, et si vous le servez de tout votre cœur et de toute votre âme,"
+            },
+            {
+              "c": 11,
+              "v": 14,
+              "t": "je donnerai à votre pays la pluie en son temps, la pluie de la première et de l’arrière-saison, et tu recueilleras ton blé, ton moût et ton huile;"
+            },
+            {
+              "c": 11,
+              "v": 15,
+              "t": "je mettrai aussi dans tes champs de l’herbe pour ton bétail, et tu mangeras et te rassasieras."
+            },
+            {
+              "c": 11,
+              "v": 16,
+              "t": "Gardez-vous de laisser séduire votre cœur, de vous détourner, de servir d’autres dieux et de vous prosterner devant eux."
+            },
+            {
+              "c": 11,
+              "v": 17,
+              "t": "La colère de l’Éternel s’enflammerait alors contre vous; il fermerait les cieux, et il n’y aurait point de pluie; la terre ne donnerait plus ses produits, et vous péririez promptement dans le bon pays que l’Éternel vous donne."
+            }
+          ]
+        },
+        {
+          "reference": "Deutéronome 32:7-26",
+          "note": null,
+          "verses": [
+            {
+              "c": 32,
+              "v": 7,
+              "t": "Rappelle à ton souvenir les anciens jours, Passe en revue les années, génération par génération, Interroge ton père, et il te l’apprendra, Tes vieillards, et ils te le diront."
+            },
+            {
+              "c": 32,
+              "v": 8,
+              "t": "Quand le Très-Haut donna un héritage aux nations, Quand il sépara les enfants des hommes, Il fixa les limites des peuples D’après le nombre des enfants d’Israël,"
+            },
+            {
+              "c": 32,
+              "v": 9,
+              "t": "Car la portion de l’Éternel, c’est son peuple, Jacob est la part de son héritage."
+            },
+            {
+              "c": 32,
+              "v": 10,
+              "t": "Il l’a trouvé dans une contrée déserte, Dans une solitude aux effroyables hurlements; Il l’a entouré, il en a pris soin, Il l’a gardé comme la prunelle de son œil,"
+            },
+            {
+              "c": 32,
+              "v": 11,
+              "t": "Pareil à l’aigle qui éveille sa couvée, Voltige sur ses petits, Déploie ses ailes, les prend, Les porte sur ses plumes."
+            },
+            {
+              "c": 32,
+              "v": 12,
+              "t": "L’Éternel seul a conduit son peuple, Et il n’y avait avec lui aucun dieu étranger."
+            },
+            {
+              "c": 32,
+              "v": 13,
+              "t": "Il l’a fait monter sur les hauteurs du pays, Et Israël a mangé les fruits des champs; Il lui a fait sucer le miel du rocher, L’huile qui sort du rocher le plus dur,"
+            },
+            {
+              "c": 32,
+              "v": 14,
+              "t": "La crème des vaches et le lait des brebis, Avec la graisse des agneaux, Des béliers de Basan et des boucs, Avec la fleur du froment; Et tu as bu le sang du raisin, le vin."
+            },
+            {
+              "c": 32,
+              "v": 15,
+              "t": "Israël est devenu gras, et il a regimbé; Tu es devenu gras, épais et replet! Et il a abandonné Dieu, son créateur, Il a méprisé le rocher de son salut,"
+            },
+            {
+              "c": 32,
+              "v": 16,
+              "t": "Ils ont excité sa jalousie par des dieux étrangers, Ils l’ont irrité par des abominations;"
+            },
+            {
+              "c": 32,
+              "v": 17,
+              "t": "Ils ont sacrifié à des idoles qui ne sont pas Dieu, A des dieux qu’ils ne connaissaient point, Nouveaux, venus depuis peu, Et que vos pères n’avaient pas craints."
+            },
+            {
+              "c": 32,
+              "v": 18,
+              "t": "Tu as abandonné le rocher qui t’a fait naître, Et tu as oublié le Dieu qui t’a engendré."
+            },
+            { "c": 32, "v": 19, "t": "L’Éternel l’a vu, et il a été irrité, Indigné contre ses fils et ses filles." },
+            {
+              "c": 32,
+              "v": 20,
+              "t": "Il a dit: Je leur cacherai ma face, Je verrai quelle sera leur fin; Car c’est une race perverse, Ce sont des enfants infidèles."
+            },
+            {
+              "c": 32,
+              "v": 21,
+              "t": "Ils ont excité ma jalousie par ce qui n’est point Dieu, Ils m’ont irrité par leurs vaines idoles; Et moi, j’exciterai leur jalousie par ce qui n’est point un peuple, Je les irriterai par une nation insensée."
+            },
+            {
+              "c": 32,
+              "v": 22,
+              "t": "Car le feu de ma colère s’est allumé, Et il brûlera jusqu’au fond du séjour des morts; Il dévorera la terre et ses produits, Il embrasera les fondements des montagnes."
+            },
+            { "c": 32, "v": 23, "t": "J’accumulerai sur eux les maux, J’épuiserai mes traits contre eux." },
+            {
+              "c": 32,
+              "v": 24,
+              "t": "Ils seront desséchés par la faim, consumés par la fièvre Et par des maladies violentes; J’enverrai parmi eux la dent des bêtes féroces Et le venin des serpents."
+            },
+            {
+              "c": 32,
+              "v": 25,
+              "t": "Au-dehors, on périra par l’épée, Et au-dedans, par d’effrayantes calamités: Il en sera du jeune homme comme de la jeune fille, De l’enfant à la mamelle comme du vieillard."
+            },
+            {
+              "c": 32,
+              "v": 26,
+              "t": "Je voudrais dire: Je les emporterai d’un souffle, Je ferai disparaître leur mémoire d’entre les hommes!"
+            }
+          ]
+        },
+        {
+          "reference": "Psaumes 105:5",
+          "note": null,
+          "verses": [
+            {
+              "c": 105,
+              "v": 5,
+              "t": "Souvenez-vous des prodiges qu’il a faits, De ses miracles et des jugements de sa bouche,"
+            }
+          ]
+        },
+        {
+          "reference": "Psaumes 105:6",
+          "note": null,
+          "verses": [{ "c": 105, "v": 6, "t": "Postérité d’Abraham, son serviteur, Enfants de Jacob, ses élus!" }]
+        },
+        {
+          "reference": "Ésaïe 63:7-14",
+          "note": null,
+          "verses": [
+            {
+              "c": 63,
+              "v": 7,
+              "t": "Je publierai les grâces de l’Éternel, les louanges de l’Éternel, D’après tout ce que l’Éternel a fait pour nous; Je dirai sa grande bonté envers la maison d’Israël, Qu’il a traitée selon ses compassions et la richesse de son amour."
+            },
+            {
+              "c": 63,
+              "v": 8,
+              "t": "Il avait dit: Certainement ils sont mon peuple, Des enfants qui ne seront pas infidèles! Et il a été pour eux un sauveur."
+            },
+            {
+              "c": 63,
+              "v": 9,
+              "t": "Dans toutes leurs détresses ils n’ont pas été sans secours, Et l’ange qui est devant sa face les a sauvés; Il les a lui-même rachetés, dans son amour et sa miséricorde, Et constamment il les a soutenus et portés, aux anciens jours."
+            },
+            {
+              "c": 63,
+              "v": 10,
+              "t": "Mais ils ont été rebelles, ils ont attristé son esprit saint; Et il est devenu leur ennemi, il a combattu contre eux."
+            },
+            {
+              "c": 63,
+              "v": 11,
+              "t": "Alors son peuple se souvint des anciens jours de Moïse: Où est celui qui les fit monter de la mer, Avec le berger de son troupeau? Où est celui qui mettait au milieu d’eux son esprit saint;"
+            },
+            {
+              "c": 63,
+              "v": 12,
+              "t": "Qui dirigea la droite de Moïse, Par son bras glorieux; Qui fendit les eaux devant eux, Pour se faire un nom éternel;"
+            },
+            {
+              "c": 63,
+              "v": 13,
+              "t": "Qui les dirigea au travers des flots, Comme un coursier dans le désert, Sans qu’ils bronchassent?"
+            },
+            {
+              "c": 63,
+              "v": 14,
+              "t": "Comme la bête qui descend dans la vallée, L’esprit de l’Éternel les a menés au repos. C’est ainsi que tu as conduit ton peuple, Pour te faire un nom glorieux."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "isaac-seme-en-temps-de-famine",
+      "title": "Isaac sème en temps de famine",
+      "reference": "Genèse 26:12-33",
+      "contextStory": "Pendant une famine, Isaac reste dans le pays des Philistins. Il sème et récolte au centuple la même année, et ses troupeaux grandissent. Jaloux, les Philistins bouchent ses puits. Isaac en creuse d'autres sans se battre, jusqu'à trouver de la place. Finalement, le roi Abimélec vient lui proposer une alliance.",
+      "teaching": "Un travail béni de Dieu peut prospérer même en temps de crise. Face à la concurrence déloyale, Isaac persévère au lieu de se battre, et Dieu finit par lui donner de l'espace et la paix avec ses voisins.",
+      "themes": ["entrepreneuriat"],
+      "verses": [
+        {
+          "c": 26,
+          "v": 12,
+          "t": "Isaac sema dans ce pays, et il recueillit cette année le centuple; car l’Éternel le bénit."
+        },
+        {
+          "c": 26,
+          "v": 13,
+          "t": "Cet homme devint riche, et il alla s’enrichissant de plus en plus, jusqu’à ce qu’il devint fort riche."
+        },
+        {
+          "c": 26,
+          "v": 14,
+          "t": "Il avait des troupeaux de menu bétail et des troupeaux de gros bétail, et un grand nombre de serviteurs: aussi les Philistins lui portèrent envie."
+        },
+        {
+          "c": 26,
+          "v": 15,
+          "t": "Tous les puits qu’avaient creusés les serviteurs de son père, du temps d’Abraham, son père, les Philistins les comblèrent et les remplirent de poussière."
+        },
+        {
+          "c": 26,
+          "v": 16,
+          "t": "Et Abimélec dit à Isaac: Va-t’en de chez nous, car tu es beaucoup plus puissant que nous."
+        },
+        { "c": 26, "v": 17, "t": "Isaac partit de là, et campa dans la vallée de Guérar, où il s’établit." },
+        {
+          "c": 26,
+          "v": 18,
+          "t": "Isaac creusa de nouveau les puits d’eau qu’on avait creusés du temps d’Abraham, son père, et qu’avaient comblés les Philistins après la mort d’Abraham; et il leur donna les mêmes noms que son père leur avait donnés."
+        },
+        {
+          "c": 26,
+          "v": 19,
+          "t": "Les serviteurs d’Isaac creusèrent encore dans la vallée, et y trouvèrent un puits d’eau vive."
+        },
+        {
+          "c": 26,
+          "v": 20,
+          "t": "Les bergers de Guérar querellèrent les bergers d’Isaac, en disant: L’eau est à nous. Et il donna au puits le nom d’Ések, parce qu’ils s’étaient disputés avec lui."
+        },
+        {
+          "c": 26,
+          "v": 21,
+          "t": "Ses serviteurs creusèrent un autre puits, au sujet duquel on chercha aussi une querelle; et il l’appela Sitna."
+        },
+        {
+          "c": 26,
+          "v": 22,
+          "t": "Il se transporta de là, et creusa un autre puits, pour lequel on ne chercha pas querelle; et il l’appela Rehoboth, car, dit-il, l’Éternel nous a maintenant mis au large, et nous prospérerons dans le pays."
+        },
+        { "c": 26, "v": 23, "t": "Il remonta de là à Beer-Schéba." },
+        {
+          "c": 26,
+          "v": 24,
+          "t": "L’Éternel lui apparut dans la nuit, et dit: Je suis le Dieu d’Abraham, ton père; ne crains point, car je suis avec toi; je te bénirai, et je multiplierai ta postérité, à cause d’Abraham, mon serviteur."
+        },
+        {
+          "c": 26,
+          "v": 25,
+          "t": "Il bâtit là un autel, invoqua le nom de l’Éternel, et y dressa sa tente. Et les serviteurs d’Isaac y creusèrent un puits."
+        },
+        {
+          "c": 26,
+          "v": 26,
+          "t": "Abimélec vint de Guérar auprès de lui, avec Ahuzath, son ami, et Picol, chef de son armée."
+        },
+        {
+          "c": 26,
+          "v": 27,
+          "t": "Isaac leur dit: Pourquoi venez-vous vers moi, puisque vous me haïssez et que vous m’avez renvoyé de chez vous?"
+        },
+        {
+          "c": 26,
+          "v": 28,
+          "t": "Ils répondirent: Nous voyons que l’Éternel est avec toi. C’est pourquoi nous disons: Qu’il y ait un serment entre nous, entre nous et toi, et que nous fassions alliance avec toi!"
+        },
+        {
+          "c": 26,
+          "v": 29,
+          "t": "Jure que tu ne nous feras aucun mal, de même que nous ne t’avons point maltraité, que nous t’avons fait seulement du bien, et que nous t’avons laissé partir en paix. Tu es maintenant béni de l’Éternel."
+        },
+        { "c": 26, "v": 30, "t": "Isaac leur fit un festin, et ils mangèrent et burent." },
+        {
+          "c": 26,
+          "v": 31,
+          "t": "Ils se levèrent de bon matin, et se lièrent l’un à l’autre par un serment. Isaac les laissa partir, et ils le quittèrent en paix."
+        },
+        {
+          "c": 26,
+          "v": 32,
+          "t": "Ce même jour, des serviteurs d’Isaac vinrent lui parler du puits qu’ils creusaient, et lui dirent: Nous avons trouvé de l’eau."
+        },
+        {
+          "c": 26,
+          "v": 33,
+          "t": "Et il l’appela Schiba. C’est pourquoi on a donné à la ville le nom de Beer-Schéba, jusqu’à ce jour."
+        }
+      ],
+      "parallels": [
+        {
+          "reference": "Psaumes 112:1-3",
+          "note": null,
+          "verses": [
+            {
+              "c": 112,
+              "v": 1,
+              "t": "Louez l’Éternel! Heureux l’homme qui craint l’Éternel, Qui trouve un grand plaisir à ses commandements."
+            },
+            {
+              "c": 112,
+              "v": 2,
+              "t": "Sa postérité sera puissante sur la terre, La génération des hommes droits sera bénie."
+            },
+            { "c": 112, "v": 3, "t": "Il a dans sa maison bien-être et richesse, Et sa justice subsiste à jamais." }
+          ]
+        },
+        {
+          "reference": "Genèse 21:22-34",
+          "note": null,
+          "verses": [
+            {
+              "c": 21,
+              "v": 22,
+              "t": "En ce temps-là, Abimélec, accompagné de Picol, chef de son armée, parla ainsi à Abraham: Dieu est avec toi dans tout ce que tu fais."
+            },
+            {
+              "c": 21,
+              "v": 23,
+              "t": "Jure-moi maintenant ici, par le nom de Dieu, que tu ne tromperas ni moi, ni mes enfants, ni mes petits-enfants, et que tu auras pour moi et le pays où tu séjournes la même bienveillance que j’ai eue pour toi."
+            },
+            { "c": 21, "v": 24, "t": "Abraham dit: Je le jurerai." },
+            {
+              "c": 21,
+              "v": 25,
+              "t": "Mais Abraham fit des reproches à Abimélec, au sujet d’un puits d’eau, dont s’étaient emparés de force les serviteurs d’Abimélec."
+            },
+            {
+              "c": 21,
+              "v": 26,
+              "t": "Abimélec répondit: J’ignore qui a fait cette chose-là; tu ne m’en as point informé, et moi, je ne l’apprends qu’aujourd’hui."
+            },
+            {
+              "c": 21,
+              "v": 27,
+              "t": "Et Abraham prit des brebis et des bœufs, qu’il donna à Abimélec; et ils firent tous deux alliance."
+            },
+            { "c": 21, "v": 28, "t": "Abraham mit à part sept jeunes brebis." },
+            {
+              "c": 21,
+              "v": 29,
+              "t": "Et Abimélec dit à Abraham: Qu’est-ce que ces sept jeunes brebis, que tu as mises à part?"
+            },
+            {
+              "c": 21,
+              "v": 30,
+              "t": "Il répondit: Tu accepteras de ma main ces sept brebis, afin que cela me serve de témoignage que j’ai creusé ce puits."
+            },
+            {
+              "c": 21,
+              "v": 31,
+              "t": "C’est pourquoi on appelle ce lieu Beer-Schéba; car c’est là qu’ils jurèrent l’un et l’autre."
+            },
+            {
+              "c": 21,
+              "v": 32,
+              "t": "Ils firent donc alliance à Beer-Schéba. Après quoi, Abimélec se leva, avec Picol, chef de son armée; et ils retournèrent au pays des Philistins."
+            },
+            {
+              "c": 21,
+              "v": 33,
+              "t": "Abraham planta des tamaris à Beer-Schéba; et là il invoqua le nom de l’Éternel, Dieu de l’éternité."
+            },
+            { "c": 21, "v": 34, "t": "Abraham séjourna longtemps dans le pays des Philistins." }
+          ]
+        },
+        {
+          "reference": "Proverbes 16:7",
+          "note": null,
+          "verses": [
+            {
+              "c": 16,
+              "v": 7,
+              "t": "Quand l’Éternel approuve les voies d’un homme, Il dispose favorablement à son égard même ses ennemis."
+            }
+          ]
+        },
+        {
+          "reference": "Matthieu 5:5",
+          "note": null,
+          "verses": [{ "c": 5, "v": 5, "t": "Heureux les débonnaires, car ils hériteront la terre!" }]
+        }
+      ]
+    },
+    {
+      "slug": "va-vers-la-fourmi",
+      "title": "Va vers la fourmi, paresseux",
+      "reference": "Proverbes 6:6-11",
+      "contextStory": "Un maître de sagesse envoie le paresseux observer un petit insecte, la fourmi.",
+      "teaching": "La fourmi n'a ni chef ni surveillant, et pourtant elle prépare ses réserves pendant la bonne saison. La discipline personnelle et la prévoyance protègent de la pauvreté qui arrive sans prévenir.",
+      "themes": ["entrepreneuriat", "sagesse"],
+      "verses": [
+        { "c": 6, "v": 6, "t": "Va vers la fourmi, paresseux; Considère ses voies, et deviens sage." },
+        { "c": 6, "v": 7, "t": "Elle n’a ni chef, Ni inspecteur, ni maître;" },
+        { "c": 6, "v": 8, "t": "Elle prépare en été sa nourriture, Elle amasse pendant la moisson de quoi manger." },
+        { "c": 6, "v": 9, "t": "Paresseux, jusqu’à quand seras-tu couché? Quand te lèveras-tu de ton sommeil?" },
+        { "c": 6, "v": 10, "t": "Un peu de sommeil, un peu d’assoupissement, Un peu croiser les mains pour dormir!…" },
+        {
+          "c": 6,
+          "v": 11,
+          "t": "Et la pauvreté te surprendra, comme un rôdeur, Et la disette, comme un homme en armes."
+        }
+      ],
+      "parallels": [
+        {
+          "reference": "Proverbes 26:13-16",
+          "note": null,
+          "verses": [
+            { "c": 26, "v": 13, "t": "Le paresseux dit: Il y a un lion sur le chemin, Il y a un lion dans les rues!" },
+            { "c": 26, "v": 14, "t": "La porte tourne sur ses gonds, Et le paresseux sur son lit." },
+            {
+              "c": 26,
+              "v": 15,
+              "t": "Le paresseux plonge sa main dans le plat, Et il trouve pénible de la ramener à sa bouche."
+            },
+            { "c": 26, "v": 16, "t": "Le paresseux se croit plus sage Que sept hommes qui répondent avec bon sens." }
+          ]
+        },
+        {
+          "reference": "Proverbes 24:30-34",
+          "note": null,
+          "verses": [
+            {
+              "c": 24,
+              "v": 30,
+              "t": "J’ai passé près du champ d’un paresseux, Et près de la vigne d’un homme dépourvu de sens."
+            },
+            {
+              "c": 24,
+              "v": 31,
+              "t": "Et voici, les épines y croissaient partout, Les ronces en couvraient la face, Et le mur de pierres était écroulé."
+            },
+            { "c": 24, "v": 32, "t": "J’ai regardé attentivement, Et j’ai tiré instruction de ce que j’ai vu." },
+            {
+              "c": 24,
+              "v": 33,
+              "t": "Un peu de sommeil, un peu d’assoupissement, Un peu croiser les mains pour dormir!…"
+            },
+            {
+              "c": 24,
+              "v": 34,
+              "t": "Et la pauvreté te surprendra, comme un rôdeur, Et la disette, comme un homme en armes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "nehemie-lance-la-reconstruction",
+      "title": "Levons-nous, et bâtissons !",
+      "reference": "Néhémie 2:11-20",
+      "contextStory": "Néhémie, échanson du roi de Perse, a obtenu la permission de rebâtir les murailles de Jérusalem, en ruine depuis des années. Arrivé sur place, il inspecte les dégâts de nuit, sans rien dire. Puis il réunit les responsables et les motive. Des voisins hostiles se moquent du projet.",
+      "teaching": "Un projet réussi commence par un diagnostic lucide, une vision partagée et la confiance en Dieu face aux critiques. Néhémie ne se laisse pas décourager par les moqueries : le Dieu des cieux fera réussir l'œuvre.",
+      "themes": ["foi", "entrepreneuriat"],
+      "verses": [
+        { "c": 2, "v": 11, "t": "J’arrivai à Jérusalem, et j’y passai trois jours." },
+        {
+          "c": 2,
+          "v": 12,
+          "t": "Après quoi, je me levai pendant la nuit avec quelques hommes, sans avoir dit à personne ce que mon Dieu m’avait mis au cœur de faire pour Jérusalem. Il n’y avait avec moi d’autre bête de somme que ma propre monture."
+        },
+        {
+          "c": 2,
+          "v": 13,
+          "t": "Je sortis de nuit par la porte de la vallée, et je me dirigeai contre la source du dragon et vers la porte du fumier, considérant les murailles en ruines de Jérusalem et réfléchissant à ses portes consumées par le feu."
+        },
+        {
+          "c": 2,
+          "v": 14,
+          "t": "Je passai près de la porte de la source et de l’étang du roi, et il n’y avait point de place par où pût passer la bête qui était sous moi."
+        },
+        {
+          "c": 2,
+          "v": 15,
+          "t": "Je montai de nuit par le torrent, et je considérai encore la muraille. Puis je rentrai par la porte de la vallée, et je fus ainsi de retour."
+        },
+        {
+          "c": 2,
+          "v": 16,
+          "t": "Les magistrats ignoraient où j’étais allé, et ce que je faisais. Jusqu’à ce moment, je n’avais rien dit aux Juifs, ni aux sacrificateurs, ni aux grands, ni aux magistrats, ni à aucun de ceux qui s’occupaient des affaires."
+        },
+        {
+          "c": 2,
+          "v": 17,
+          "t": "Je leur dis alors: Vous voyez le malheureux état où nous sommes! Jérusalem est détruite, et ses portes sont consumées par le feu! Venez, rebâtissons la muraille de Jérusalem, et nous ne serons plus dans l’opprobre."
+        },
+        {
+          "c": 2,
+          "v": 18,
+          "t": "Et je leur racontai comment la bonne main de mon Dieu avait été sur moi, et quelles paroles le roi m’avait adressées. Ils dirent: Levons-nous, et bâtissons! Et ils se fortifièrent dans cette bonne résolution."
+        },
+        {
+          "c": 2,
+          "v": 19,
+          "t": "Sanballat, le Horonite, Tobija, le serviteur ammonite, et Guéschem, l’Arabe, en ayant été informés, se moquèrent de nous et nous méprisèrent. Ils dirent: Que faites-vous là? Vous révoltez-vous contre le roi?"
+        },
+        {
+          "c": 2,
+          "v": 20,
+          "t": "Et je leur fis cette réponse: Le Dieu des cieux nous donnera le succès. Nous, ses serviteurs, nous nous lèverons et nous bâtirons; mais vous, vous n’avez ni part, ni droit, ni souvenir dans Jérusalem."
+        }
+      ],
+      "parallels": [
+        {
+          "reference": "Psaumes 122:6-9",
+          "note": null,
+          "verses": [
+            { "c": 122, "v": 6, "t": "Demandez la paix de Jérusalem. Que ceux qui t’aiment jouissent du repos!" },
+            { "c": 122, "v": 7, "t": "Que la paix soit dans tes murs, Et la tranquillité dans tes palais!" },
+            { "c": 122, "v": 8, "t": "A cause de mes frères et de mes amis, Je désire la paix dans ton sein;" },
+            {
+              "c": 122,
+              "v": 9,
+              "t": "A cause de la maison de l’Éternel, notre Dieu, Je fais des vœux pour ton bonheur."
+            }
+          ]
+        },
+        {
+          "reference": "Juges 5:2",
+          "note": null,
+          "verses": [
+            {
+              "c": 5,
+              "v": 2,
+              "t": "Des chefs se sont mis à la tête du peuple en Israël, Et le peuple s’est montré prêt à combattre: Bénissez-en l’Éternel!"
+            }
+          ]
+        },
+        {
+          "reference": "Ésaïe 51:7",
+          "note": null,
+          "verses": [
+            {
+              "c": 51,
+              "v": 7,
+              "t": "Écoutez-moi, vous qui connaissez la justice, Peuple, qui as ma loi dans ton cœur! Ne craignez pas l’opprobre des hommes, Et ne tremblez pas devant leurs outrages."
+            }
+          ]
+        },
+        {
+          "reference": "Ésaïe 51:8",
+          "note": null,
+          "verses": [
+            {
+              "c": 51,
+              "v": 8,
+              "t": "Car la teigne les dévorera comme un vêtement, Et la gerce les rongera comme de la laine; Mais ma justice durera éternellement, Et mon salut s’étendra d’âge en âge."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "si-l-eternel-ne-batit-la-maison",
+      "title": "Si l'Éternel ne bâtit la maison",
+      "reference": "Psaumes 127",
+      "contextStory": "Court psaume attribué à Salomon, le roi bâtisseur du temple. Il fait partie des « cantiques des degrés », chantés par les pèlerins en montant à Jérusalem.",
+      "teaching": "Travailler jour et nuit sans Dieu ne garantit rien ; c'est lui qui fait réussir la maison, la ville et la famille. Le repos et les enfants sont des dons de Dieu, pas seulement le fruit de l'effort.",
+      "themes": ["mariage", "entrepreneuriat"],
+      "verses": [
+        {
+          "c": 127,
+          "v": 1,
+          "t": "Cantique des degrés. De Salomon. Si l’Éternel ne bâtit la maison, Ceux qui la bâtissent travaillent en vain; Si l’Éternel ne garde la ville, Celui qui la garde veille en vain."
+        },
+        {
+          "c": 127,
+          "v": 2,
+          "t": "En vain vous levez-vous matin, vous couchez-vous tard, Et mangez-vous le pain de douleur; Il en donne autant à ses bien-aimés pendant leur sommeil."
+        },
+        {
+          "c": 127,
+          "v": 3,
+          "t": "Voici, des fils sont un héritage de l’Éternel, Le fruit des entrailles est une récompense."
+        },
+        { "c": 127, "v": 4, "t": "Comme les flèches dans la main d’un guerrier, Ainsi sont les fils de la jeunesse." },
+        {
+          "c": 127,
+          "v": 5,
+          "t": "Heureux l’homme qui en a rempli son carquois! Ils ne seront pas confus, Quand ils parleront avec des ennemis à la porte."
+        }
+      ],
+      "parallels": [
+        {
+          "reference": "Proverbes 10:22",
+          "note": null,
+          "verses": [
+            {
+              "c": 10,
+              "v": 22,
+              "t": "C’est la bénédiction de l’Éternel qui enrichit, Et il ne la fait suivre d’aucun chagrin."
+            }
+          ]
+        },
+        {
+          "reference": "Psaumes 128",
+          "note": null,
+          "verses": [
+            {
+              "c": 128,
+              "v": 1,
+              "t": "Cantique des degrés. Heureux tout homme qui craint l’Éternel, Qui marche dans ses voies!"
+            },
+            { "c": 128, "v": 2, "t": "Tu jouis alors du travail de tes mains, Tu es heureux, tu prospères." },
+            {
+              "c": 128,
+              "v": 3,
+              "t": "Ta femme est comme une vigne féconde Dans l’intérieur de ta maison; Tes fils sont comme des plants d’olivier, Autour de ta table."
+            },
+            { "c": 128, "v": 4, "t": "C’est ainsi qu’est béni L’homme qui craint l’Éternel." },
+            {
+              "c": 128,
+              "v": 5,
+              "t": "L’Éternel te bénira de Sion, Et tu verras le bonheur de Jérusalem Tous les jours de ta vie;"
+            },
+            { "c": 128, "v": 6, "t": "Tu verras les fils de tes fils. Que la paix soit sur Israël!" }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "confie-toi-en-l-eternel",
+      "title": "Confie-toi en l'Éternel de tout ton cœur",
+      "reference": "Proverbes 3:1-10",
+      "contextStory": "Un père transmet à son fils les leçons de sa vie, pour qu'il ne les oublie pas.",
+      "teaching": "Faire confiance à Dieu plutôt qu'à sa seule intelligence, le reconnaître dans toutes ses décisions et l'honorer avec ses biens : c'est le chemin d'une vie droite et paisible.",
+      "themes": ["foi", "sagesse"],
+      "verses": [
+        { "c": 3, "v": 1, "t": "Mon fils, n’oublie pas mes enseignements, Et que ton cœur garde mes préceptes;" },
+        { "c": 3, "v": 2, "t": "Car ils prolongeront les jours et les années de ta vie, Et ils augmenteront ta paix." },
+        {
+          "c": 3,
+          "v": 3,
+          "t": "Que la bonté et la fidélité ne t’abandonnent pas; Lie-les à ton cou, écris-les sur la table de ton cœur."
+        },
+        { "c": 3, "v": 4, "t": "Tu acquerras ainsi de la grâce et une raison saine, Aux yeux de Dieu et des hommes." },
+        { "c": 3, "v": 5, "t": "Confie-toi en l’Éternel de tout ton cœur, Et ne t’appuie pas sur ta sagesse;" },
+        { "c": 3, "v": 6, "t": "Reconnais-le dans toutes tes voies, Et il aplanira tes sentiers." },
+        { "c": 3, "v": 7, "t": "Ne sois point sage à tes propres yeux, Crains l’Éternel, et détourne-toi du mal:" },
+        { "c": 3, "v": 8, "t": "Ce sera la santé pour tes muscles, Et un rafraîchissement pour tes os." },
+        { "c": 3, "v": 9, "t": "Honore l’Éternel avec tes biens, Et avec les prémices de tout ton revenu:" },
+        { "c": 3, "v": 10, "t": "Alors tes greniers seront remplis d’abondance, Et tes cuves regorgeront de moût." }
+      ],
+      "parallels": [
+        {
+          "reference": "Proverbes 4:1-10",
+          "note": null,
+          "verses": [
+            {
+              "c": 4,
+              "v": 1,
+              "t": "Écoutez, mes fils, l’instruction d’un père, Et soyez attentifs, pour connaître la sagesse;"
+            },
+            { "c": 4, "v": 2, "t": "Car je vous donne de bons conseils: Ne rejetez pas mon enseignement." },
+            { "c": 4, "v": 3, "t": "J’étais un fils pour mon père, Un fils tendre et unique auprès de ma mère." },
+            {
+              "c": 4,
+              "v": 4,
+              "t": "Il m’instruisait alors, et il me disait: Que ton cœur retienne mes paroles; Observe mes préceptes, et tu vivras."
+            },
+            {
+              "c": 4,
+              "v": 5,
+              "t": "Acquiers la sagesse, acquiers l’intelligence; N’oublie pas les paroles de ma bouche, et ne t’en détourne pas."
+            },
+            { "c": 4, "v": 6, "t": "Ne l’abandonne pas, et elle te gardera; Aime-la, et elle te protégera." },
+            {
+              "c": 4,
+              "v": 7,
+              "t": "Voici le commencement de la sagesse: Acquiers la sagesse, Et avec tout ce que tu possèdes acquiers l’intelligence."
+            },
+            { "c": 4, "v": 8, "t": "Exalte-la, et elle t’élèvera; Elle fera ta gloire, si tu l’embrasses;" },
+            {
+              "c": 4,
+              "v": 9,
+              "t": "Elle mettra sur ta tête une couronne de grâce, Elle t’ornera d’un magnifique diadème."
+            },
+            {
+              "c": 4,
+              "v": 10,
+              "t": "Écoute, mon fils, et reçois mes paroles; Et les années de ta vie se multiplieront."
+            }
+          ]
+        },
+        {
+          "reference": "Psaumes 37:3-6",
+          "note": null,
+          "verses": [
+            {
+              "c": 37,
+              "v": 3,
+              "t": "Confie-toi en l’Éternel, et pratique le bien; Aie le pays pour demeure et la fidélité pour pâture."
+            },
+            { "c": 37, "v": 4, "t": "Fais de l’Éternel tes délices, Et il te donnera ce que ton cœur désire." },
+            { "c": 37, "v": 5, "t": "Recommande ton sort à l’Éternel, Mets en lui ta confiance, et il agira." },
+            {
+              "c": 37,
+              "v": 6,
+              "t": "Il fera paraître ta justice comme la lumière, Et ton droit comme le soleil à son midi."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

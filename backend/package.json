@@ -15,7 +15,8 @@
     "seed": "tsx scripts/seed.ts",
     "admin:create": "tsx scripts/create-admin.ts",
     "plan:generate": "tsx scripts/generate-plan.ts",
-    "test": "vitest run"
+    "test": "vitest run",
+    "export:mobile": "tsx scripts/export-mobile.ts"
   },
   "license": "UNLICENSED",
   "dependencies": {

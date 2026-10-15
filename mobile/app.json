@@ -1,0 +1,50 @@
+{
+  "expo": {
+    "name": "Guide du chrétien",
+    "slug": "guide-du-chretien",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "scheme": "guideduchretien",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.nextiaa.guideduchretien"
+    },
+    "android": {
+      "package": "com.nextiaa.guideduchretien",
+      "adaptiveIcon": {
+        "backgroundColor": "#1E2B47",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-status-bar",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/splash-icon.png",
+          "imageWidth": 260,
+          "resizeMode": "contain",
+          "backgroundColor": "#1E2B47",
+          "dark": {
+            "image": "./assets/splash-icon.png",
+            "backgroundColor": "#131C30"
+          }
+        }
+      ],
+      "expo-font"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
